@@ -1,0 +1,957 @@
+,Unnamed: 0.1,Unnamed: 0,name,search_query,occupation,nationality,birth_year,wikipedia_birth_year,citation,description,Prompt,GPT 3.5 Response Prompt1
+0,20,20,John Allan Carpenter,Allan Carpenter,author,american,1917,1917,4,"john allan carpenter -lrb- born may 11 , 1917 in waterloo , iowa -- may 11 , 2002 in chicago , illinois -rrb- `` is one of the most respected non-fiction authors in american publishing history '' .
+he was a prolific writer with more than 225 books to his credit .
+by 1990 , his four `` `` enchantment '' series '' were approaching 10 million copies printed .
+among his accomplishments is the founding of the national magazine `` the teachers digest '' .
+at the age of 21 , he was the director of public relations for `` popular mechanics '' , a position he held for 19 years .
+among his many writings are the sixteen-volume `` popular mechanics home handyman encyclopedia '' , the 52-volume `` enchantment of america '' state series and his 38-volume `` enchantment of africa '' series .
+his book : `` illinois : land of lincoln '' , was the official book of the illinois sesquicentennial celebration in 1968 .
+in 1993 , he co-authored `` world almanac of the u.s.a. '' .
+`` for more than twenty-five years , intermittently , he served as clerk of session of the second presbyterian church in evanston , illinois . ''
+he has been a member of many non-professional symphony orchestras including the chicago business men 's orchestra .
+he was a founder and president of the music council of metropolitan chicago .
+in 1988 , carpenter received a life achievement award from the university of northern iowa .
+he was president of the society of wilson descendants for more than forty years .
+carpenter was a life member of the illinois st. andrew society .
+","Consider the following biography.
+""john allan carpenter -lrb- born may 11 , 1917 in waterloo , iowa -- may 11 , 2002 in chicago , illinois -rrb- `` is one of the most respected non-fiction authors in american publishing history '' .
+he was a prolific writer with more than 225 books to his credit .
+by 1990 , his four `` `` enchantment '' series '' were approaching 10 million copies printed .
+among his accomplishments is the founding of the national magazine `` the teachers digest '' .
+at the age of 21 , he was the director of public relations for `` popular mechanics '' , a position he held for 19 years .
+among his many writings are the sixteen-volume `` popular mechanics home handyman encyclopedia '' , the 52-volume `` enchantment of america '' state series and his 38-volume `` enchantment of africa '' series .
+his book : `` illinois : land of lincoln '' , was the official book of the illinois sesquicentennial celebration in 1968 .
+in 1993 , he co-authored `` world almanac of the u.s.a. '' .
+`` for more than twenty-five years , intermittently , he served as clerk of session of the second presbyterian church in evanston , illinois . ''
+he has been a member of many non-professional symphony orchestras including the chicago business men 's orchestra .
+he was a founder and president of the music council of metropolitan chicago .
+in 1988 , carpenter received a life achievement award from the university of northern iowa .
+he was president of the society of wilson descendants for more than forty years .
+carpenter was a life member of the illinois st. andrew society .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was John Allan Carpenter born? == 1917 2. When did John Allan Carpenter receive a life achievement award from the University of Northern Iowa? == 1988 3. When did John Allan Carpenter pass away? == 2002
+1,128,128,Johann Nikolaus Von Dreyse,Johann Nicolaus von Dreyse,"inventor , entrepreneur",german,1787,1787,2,"johann nicolaus von dreyse -lrb- november 20 , 1787 -- december 9 , 1867 -rrb- was a german firearms inventor and manufacturer .
+he is most famous for submitting the `` dreyse needle gun '' in 1836 to the prussian army , which was adopted for service in december 1840 as the `` leichte perscussions-gewehr m 1841 '' -- a name deliberately chosen to mislead about the rifle 's mechanism -- later renamed zündnadelgewehr m 1841 in 1855 .
+dreyse was born in sömmerda -lrb- then ruled by the archbishopric of mainz -rrb- , the son of a locksmith .
+dreyse worked from 1809 to 1814 in the parisian gun factory of jean-samuel pauly , a swiss who designed several experimental breech-loading military rifles .
+returning to sömmerda , he in 1824 founded a company to manufacture percussion caps .
+it was there that he designed the needle rifle .
+while the gun is thought of by some to be the first bolt-action rifle , in reality it bears little resemblance to modern bolt-action rifles , except for the bolt principle itself which was applied to close the breech .
+ammunition for the dreyse rifle was made up of paper cartridges holding the bullet into a sabot .
+the gun 's needle penetrated the paper cartridge before igniting the black powder charge .
+the dreyse 's simple construction made it relatively easy to keep clean and in operation .
+for instance , worn needles could be quickly replaced without dismantling the bolt mechanism .
+the dreyse rifle was a significant ordnance improvement for its time , since it permitted a much faster rate of fire than the muzzle-loading rifled muskets which were the standard of world 's armies until the mid-1860s .
+it also enabled riflemen to reload without standing and exposing themselves to fire .
+the dreyse rifle was used by the prussians during the austro-prussian war , at the battle of königgrätz , and the franco-prussian war .
+by that time , the gun was fast becoming obsolete , and was outclassed by the french bolt action `` mle '' 1866 chassepot rifle .
+other bolt action rifle designs had emerged in other countries .
+for example , in 1869 switzerland adopted the bolt action vetterli rifle which was a tube magazine rimfire metallic cartridge repeater .
+the french transformed the 11mm chassepot into a metallic cartridge bolt action rifle , the `` mle '' 1874 gras .
+germany had also switched earlier to an 11mm metallic cartridge with the entirely new mauser model 1871 bolt action rifle .
+great britain and the u.s. evolved from muzzle loaders to metallic cartridge breech loaders , but with systems other than bolt action , during that same period .
+there remains some ambiguity about the activities of von dreyse after he created the needle-gun , as he seems to have dropped the `` johann '' part of his name and was known as `` nikolaus von dreyse '' .
+","Consider the following biography.
+""johann nicolaus von dreyse -lrb- november 20 , 1787 -- december 9 , 1867 -rrb- was a german firearms inventor and manufacturer .
+he is most famous for submitting the `` dreyse needle gun '' in 1836 to the prussian army , which was adopted for service in december 1840 as the `` leichte perscussions-gewehr m 1841 '' -- a name deliberately chosen to mislead about the rifle 's mechanism -- later renamed zündnadelgewehr m 1841 in 1855 .
+dreyse was born in sömmerda -lrb- then ruled by the archbishopric of mainz -rrb- , the son of a locksmith .
+dreyse worked from 1809 to 1814 in the parisian gun factory of jean-samuel pauly , a swiss who designed several experimental breech-loading military rifles .
+returning to sömmerda , he in 1824 founded a company to manufacture percussion caps .
+it was there that he designed the needle rifle .
+while the gun is thought of by some to be the first bolt-action rifle , in reality it bears little resemblance to modern bolt-action rifles , except for the bolt principle itself which was applied to close the breech .
+ammunition for the dreyse rifle was made up of paper cartridges holding the bullet into a sabot .
+the gun 's needle penetrated the paper cartridge before igniting the black powder charge .
+the dreyse 's simple construction made it relatively easy to keep clean and in operation .
+for instance , worn needles could be quickly replaced without dismantling the bolt mechanism .
+the dreyse rifle was a significant ordnance improvement for its time , since it permitted a much faster rate of fire than the muzzle-loading rifled muskets which were the standard of world 's armies until the mid-1860s .
+it also enabled riflemen to reload without standing and exposing themselves to fire .
+the dreyse rifle was used by the prussians during the austro-prussian war , at the battle of königgrätz , and the franco-prussian war .
+by that time , the gun was fast becoming obsolete , and was outclassed by the french bolt action `` mle '' 1866 chassepot rifle .
+other bolt action rifle designs had emerged in other countries .
+for example , in 1869 switzerland adopted the bolt action vetterli rifle which was a tube magazine rimfire metallic cartridge repeater .
+the french transformed the 11mm chassepot into a metallic cartridge bolt action rifle , the `` mle '' 1874 gras .
+germany had also switched earlier to an 11mm metallic cartridge with the entirely new mauser model 1871 bolt action rifle .
+great britain and the u.s. evolved from muzzle loaders to metallic cartridge breech loaders , but with systems other than bolt action , during that same period .
+there remains some ambiguity about the activities of von dreyse after he created the needle-gun , as he seems to have dropped the `` johann '' part of his name and was known as `` nikolaus von dreyse '' .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was the Dreyse needle gun adopted for service by the Prussian army? Answer: December 1840  2. In what year was the Dreyse rifle used by the Prussians during the Austro-Prussian War? Answer: Unknown  3. When did Germany switch to the Mauser Model 1871 bolt action rifle? Answer: 1871
+2,88,88,The Lord Redcliffe-Maud,"John Redcliffe-Maud, Baron Redcliffe-Maud",civil servant,british,1906,1906,21,"john primatt redcliffe-maud , baron redcliffe-maud , gcb , cbe -lrb- 3 february 1906 -- 20 november 1982 -rrb- was a british civil servant and diplomat .
+born in bristol , maud was educated at eton college and new college , oxford .
+he gained a second in classical moderations in 1928 and a first in literae humaniores -lrb- ` greats ' -rrb- in 1928 .
+at oxford he was a member of the oxford university dramatic society -lrb- ouds -rrb- .
+in 1928 , he gained the one-year henry p. davison scholarship to harvard university where he was awarded an a.b. in 1929 .
+from 1929 to 1932 he was a junior research fellow university college , oxford and from 1932-39 fellow -lrb- praelector in politics -rrb- and dean of the college .
+he was awarded a rhodes travelling scholarship to africa in 1932 and held a university lectureship in politics at oxford university , 1938-9 .
+during world war ii , he was master of birkbeck college and was also based at reading gaol , working for the ministry of food .
+he became a commander of the order of the british empire in 1942 , and after the war , he worked at the ministry of education -lrb- 1945 -- 1952 -rrb- , rising to permanent secretary and then the ministry of fuel and power until 1958 .
+he became a knight commander of the order of the bath in 1946 , and was raised to a knight grand cross in 1955 .
+`` inter alia '' , maud appeared on the bbc programme `` the brains trust '' in 1958 .
+he was high commissioner to the union of south africa from 1959 to 1961 , and ambassador from 1961 , when the country became a republic and left the commonwealth .
+in 1963 , he became master of university college , oxford , where he had been a fellow before the second world war .
+in march 1964 , maud was appointed by sir keith joseph , at the request of local council associations , to head a departmental committee looking into the management of local government .
+the maud committee reported three years later .
+during the course of the inquiry , maud was chosen to head a royal commission on the reform of all local government in england .
+he was awarded a life peerage , hyphenating his surname to become baron redcliffe-maud , of the city and county of bristol in 1967 .
+the report of the royal commission on local government in england , popularly known as the redcliffe-maud report , was published in 1969 .
+it advocated the wholesale reform of local council boundaries and the institution of large unitary councils based on the principle of mixing rural and urban areas .
+accepted by the labour government of harold wilson with minor changes , the opposition from rural areas convinced the conservative opposition to oppose it and no further action was taken after the conservatives won the 1970 general election .
+he retired as master of university college in 1976 , to be succeeded by the leading lawyer lord goodman .
+his 1973 portrait by ruskin spear can be seen in the national portrait gallery , london .
+another portrait hangs in the hall at university college in oxford .
+redcliffe-maud was married to jean hamilton , who was educated at somerville college , oxford .
+his son , humphrey maud , was one of benjamin britten 's favourite boys while he was at eton .
+sir john intervened to curtail humphrey 's frequent visits to stay with britten on his own .
+the incident is described in john bridcut 's `` britten 's children '' .
+john redcliffe-maud is buried in holywell cemetery , oxford .
+his archive is held by the london school of economics library .
+redcliffe-maud house at the university college annex known as `` stavertonia '' in north oxford is named in honour of him .
+","Consider the following biography.
+""john primatt redcliffe-maud , baron redcliffe-maud , gcb , cbe -lrb- 3 february 1906 -- 20 november 1982 -rrb- was a british civil servant and diplomat .
+born in bristol , maud was educated at eton college and new college , oxford .
+he gained a second in classical moderations in 1928 and a first in literae humaniores -lrb- ` greats ' -rrb- in 1928 .
+at oxford he was a member of the oxford university dramatic society -lrb- ouds -rrb- .
+in 1928 , he gained the one-year henry p. davison scholarship to harvard university where he was awarded an a.b. in 1929 .
+from 1929 to 1932 he was a junior research fellow university college , oxford and from 1932-39 fellow -lrb- praelector in politics -rrb- and dean of the college .
+he was awarded a rhodes travelling scholarship to africa in 1932 and held a university lectureship in politics at oxford university , 1938-9 .
+during world war ii , he was master of birkbeck college and was also based at reading gaol , working for the ministry of food .
+he became a commander of the order of the british empire in 1942 , and after the war , he worked at the ministry of education -lrb- 1945 -- 1952 -rrb- , rising to permanent secretary and then the ministry of fuel and power until 1958 .
+he became a knight commander of the order of the bath in 1946 , and was raised to a knight grand cross in 1955 .
+`` inter alia '' , maud appeared on the bbc programme `` the brains trust '' in 1958 .
+he was high commissioner to the union of south africa from 1959 to 1961 , and ambassador from 1961 , when the country became a republic and left the commonwealth .
+in 1963 , he became master of university college , oxford , where he had been a fellow before the second world war .
+in march 1964 , maud was appointed by sir keith joseph , at the request of local council associations , to head a departmental committee looking into the management of local government .
+the maud committee reported three years later .
+during the course of the inquiry , maud was chosen to head a royal commission on the reform of all local government in england .
+he was awarded a life peerage , hyphenating his surname to become baron redcliffe-maud , of the city and county of bristol in 1967 .
+the report of the royal commission on local government in england , popularly known as the redcliffe-maud report , was published in 1969 .
+it advocated the wholesale reform of local council boundaries and the institution of large unitary councils based on the principle of mixing rural and urban areas .
+accepted by the labour government of harold wilson with minor changes , the opposition from rural areas convinced the conservative opposition to oppose it and no further action was taken after the conservatives won the 1970 general election .
+he retired as master of university college in 1976 , to be succeeded by the leading lawyer lord goodman .
+his 1973 portrait by ruskin spear can be seen in the national portrait gallery , london .
+another portrait hangs in the hall at university college in oxford .
+redcliffe-maud was married to jean hamilton , who was educated at somerville college , oxford .
+his son , humphrey maud , was one of benjamin britten 's favourite boys while he was at eton .
+sir john intervened to curtail humphrey 's frequent visits to stay with britten on his own .
+the incident is described in john bridcut 's `` britten 's children '' .
+john redcliffe-maud is buried in holywell cemetery , oxford .
+his archive is held by the london school of economics library .
+redcliffe-maud house at the university college annex known as `` stavertonia '' in north oxford is named in honour of him .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was John Redcliffe-Maud appointed as High Commissioner to the Union of South Africa? Answer: 1959  2. In which year was the Redcliffe-Maud Report on the reform of local government in England published? Answer: 1969  3. When did John Redcliffe-Maud retire as Master of University College, Oxford? Answer: 1976"
+3,38,38,Dr Gauri Shankar Shejwar,Gauri Shankar Shejwar,"cabinet govt . of madhya pradesh minister - forests , bio-diversity and biotechnology ,",indian,1950,1950,0,"elected to vidhan sabha for the first time at the age of 27 years in 1977 , dr. shejwar was appointed parliamentary secretary of public health & family welfare department .
+he was also state vice-president of janata yuva morcha .
+he has been elected bharatiya janata party -lrb- bjp -rrb- mla 7 times from raisen district in madhya pradesh -lrb- mp -rrb- .
+he has been the lead campaign manager for former prime minister atal bihari vajpayee when the latter won from vidisha lok sabha constituency in mp during the 1991 general elections .
+in the past , he was cabinet minister in three different bjp governments that have governed madhya pradesh .
+he has held important portfolios such as home affairs , power & energy , health , and education during his different tenures as a minister .
+he has also served as the leader of opposition -lrb- 1999 -- 2002 -rrb- for bjp in the mp legislative assembly during digvijay singh led congress government 's second term in power .
+born in 1950 in udaipura in raisen district , dr shejwar is involved with farming and healthcare activities .
+he is married to dr kiran shejwar and has a son and two daughters .
+","Consider the following biography.
+""elected to vidhan sabha for the first time at the age of 27 years in 1977 , dr. shejwar was appointed parliamentary secretary of public health & family welfare department .
+he was also state vice-president of janata yuva morcha .
+he has been elected bharatiya janata party -lrb- bjp -rrb- mla 7 times from raisen district in madhya pradesh -lrb- mp -rrb- .
+he has been the lead campaign manager for former prime minister atal bihari vajpayee when the latter won from vidisha lok sabha constituency in mp during the 1991 general elections .
+in the past , he was cabinet minister in three different bjp governments that have governed madhya pradesh .
+he has held important portfolios such as home affairs , power & energy , health , and education during his different tenures as a minister .
+he has also served as the leader of opposition -lrb- 1999 -- 2002 -rrb- for bjp in the mp legislative assembly during digvijay singh led congress government 's second term in power .
+born in 1950 in udaipura in raisen district , dr shejwar is involved with farming and healthcare activities .
+he is married to dr kiran shejwar and has a son and two daughters .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Dr. Shejwar first elected to the Vidhan Sabha? Answer: 1977  2. During which general elections did Dr. Shejwar serve as the lead campaign manager for former Prime Minister Atal Bihari Vajpayee? Answer: 1991  3. From 1999 to 2002, in which years did Dr. Shejwar serve as the Leader of Opposition in the MP Legislative Assembly? Answer: 1999-2002"
+4,61,61,Dr Shayama Chona,Shayama Chona,"educationist president of tamana association new delhi , disability rights activist , author founder and",indian,1942,1942,5,"shayama chona -lrb- -rrb- is the founder-president of tamana association -lrb- estb .
+1984 -rrb- and the former principal of dps rkp , new delhi .
+in 1997 , she was presented with the prestigious national award for individual for best work done in the cause of the disabled .
+under her dynamic leadership as president of the governing council , tamana association received the first mother teresa award for its dedicated services to the intellectually impaired .
+not only has her contribution been recognized and felicitated time and again , her commitment in the field of education and social welfare for over 4 decades has given concrete shape directly to the nation 's education policies and welfare programmes .
+she is the proud recipient of 54 awards , the most prestigious being the padma bhushan in 2008 and padma shri in 1999 and two national awards in 1994 and 1997 and one state award in 1993 for her work in the field of education and social welfare .
+she has served as a member on 97 advisory boards and committees and has been trustee of the nehru bal samiti and special olympics , patron of ` concerned action now ' , vice-chairman of the society for human development , besides being on the managing committee of 46 schools and other educational institutions .
+","Consider the following biography.
+""shayama chona -lrb- -rrb- is the founder-president of tamana association -lrb- estb .
+1984 -rrb- and the former principal of dps rkp , new delhi .
+in 1997 , she was presented with the prestigious national award for individual for best work done in the cause of the disabled .
+under her dynamic leadership as president of the governing council , tamana association received the first mother teresa award for its dedicated services to the intellectually impaired .
+not only has her contribution been recognized and felicitated time and again , her commitment in the field of education and social welfare for over 4 decades has given concrete shape directly to the nation 's education policies and welfare programmes .
+she is the proud recipient of 54 awards , the most prestigious being the padma bhushan in 2008 and padma shri in 1999 and two national awards in 1994 and 1997 and one state award in 1993 for her work in the field of education and social welfare .
+she has served as a member on 97 advisory boards and committees and has been trustee of the nehru bal samiti and special olympics , patron of ` concerned action now ' , vice-chairman of the society for human development , besides being on the managing committee of 46 schools and other educational institutions .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Tamana Association established? Answer: Tamana Association was established in 1984.  2. In which year did Shayama Chona receive the Padma Shri award? Answer: Shayama Chona received the Padma Shri award in 1999.  3. When did Shayama Chona receive the first Mother Teresa award for Tamana Association? Answer: Shayama Chona received the first Mother Teresa award for Tamana Association under her dynamic leadership as president of the governing council, but the specific year is not mentioned in the given text."
+5,26,26,Jaleel White,Jaleel White,"actor , screenwriter , film and television producer",american,1976,1976,50,"jaleel ahmad white -lrb- born november 27 , 1976 -rrb- is an american television and film actor , producer and screenwriter .
+in 1989 , he was cast in the role of steve urkel on the sitcom `` family matters '' .
+the character , which was originally intended to be a one-time guest appearance , was an instant hit with audiences and white became a regular cast member .
+the series aired for a total of nine seasons , from 1989 to 1997 on abc , and from 1997 to 1998 on cbs .
+aside from this character , white is also known as the voice of sonic the hedgehog in the animated series `` adventures of sonic the hedgehog '' , `` sonic the hedgehog '' and `` sonic underground '' .
+after `` family matters '' ended , white starred in the upn series `` grown ups '' from 1999 to 2000 .
+he later attended ucla where he graduated with a degree in film and television in 2001 .
+he has continued his acting career with roles in `` dreamgirls '' -lrb- 2006 -rrb- , and guest stints on `` boston legal '' , `` house '' , and `` psych '' .
+in march 2012 , white appeared as a contestant in season 14 of `` dancing with the stars '' and was voted off in may 2012 .
+in april 2012 , white hosted the game show `` total blackout '' , which aired on the syfy channel .
+","Consider the following biography.
+""jaleel ahmad white -lrb- born november 27 , 1976 -rrb- is an american television and film actor , producer and screenwriter .
+in 1989 , he was cast in the role of steve urkel on the sitcom `` family matters '' .
+the character , which was originally intended to be a one-time guest appearance , was an instant hit with audiences and white became a regular cast member .
+the series aired for a total of nine seasons , from 1989 to 1997 on abc , and from 1997 to 1998 on cbs .
+aside from this character , white is also known as the voice of sonic the hedgehog in the animated series `` adventures of sonic the hedgehog '' , `` sonic the hedgehog '' and `` sonic underground '' .
+after `` family matters '' ended , white starred in the upn series `` grown ups '' from 1999 to 2000 .
+he later attended ucla where he graduated with a degree in film and television in 2001 .
+he has continued his acting career with roles in `` dreamgirls '' -lrb- 2006 -rrb- , and guest stints on `` boston legal '' , `` house '' , and `` psych '' .
+in march 2012 , white appeared as a contestant in season 14 of `` dancing with the stars '' and was voted off in may 2012 .
+in april 2012 , white hosted the game show `` total blackout '' , which aired on the syfy channel .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did ""Family Matters"" first air on ABC? Answer: 1989  2. In what year did Jaleel White graduate from UCLA? Answer: 2001  3. When did Jaleel White appear as a contestant on ""Dancing with the Stars""? Answer: 2012"
+6,186,186,'' ` Alice Dixson '' ',Alice Dixson,"actress , model , realtor",filipino and american -lrb- dual -rrb-,1969,1969,3,"alice dixson -lrb- born july 28 , 1969 , jessie alice celones dixson -rrb- or often misspelled alice dixon , is a filipino-american actress , commercial model , and former beauty queen .
+born to an american father and a filipino mother , she was the philippines ' representative for miss international in 1986 and became a household name in 1987 through a palmolive soap tv commercial where she sang the phrase '' `` i can feel it ! '' '' .
+after joining a talent contest in `` eat bulaga ! ''
+and binibining pilipinas , her show business career started with the role of faye , a fairy princess , who fell in love with an earthling in `` okay ka , fairy ko '' .
+at that time , eat bulaga !
+was airing on rpn and one of its hosts , vic sotto , requested her to be part of the tv series -lrb- he is the owner of m-zet productions that produced `` okay ka , fairy ko '' -rrb- .
+in january 2011 , she returned to show business via `` babaeng hampaslupa '' which aired on tv5 .
+this was succeeded with `` glamorosa '' , `` isang dakot na luha '' -lrb- 2012 -rrb- , `` enchanted garden '' -lrb- 2012 -rrb- and two movies `` ang panday 2 '' -lrb- 2011 -rrb- and `` just one summer '' -lrb- 2012 -rrb- .
+her next tv series is `` never say goodbye '' which airs in january 2013 on tv5 .
+dixson is a licensed realtor in the province of british columbia , canada and also a licensed real estate agent in the state of florida , usa .
+dixson is also known for her best actress roles in many viva films favorites such as `` hanggang saan , hanggang kailan '' -lrb- 1993 -rrb- , `` sa isang sulok ng pangarap '' -lrb- 1994 , based on the popular comics series by rj nuevas -rrb- , `` pangako ng kahapon '' -lrb- 1994 -rrb- , `` sana dalawa ang puso ko '' -lrb- 1995 -rrb- and the all-star cast of the action film `` silakbo '' -lrb- 1995 -rrb- with cesar montano , anjanette abayari and marjorie barretto .
+dixson is also a film favorite when she was paired with christopher de leon in films like `` my husband 's woman '' -lrb- 1993 -rrb- , `` bakit ngayon ka lang '' -lrb- 1994 , octoarts films -rrb- and `` pahiram kahit sandali '' -lrb- 1999 , regal films -rrb- , which was an r-rated but critically acclaimed film because of both leading woman 's portrayals by dixson and ara mina , earning credit for director maryo j. delos reyes .
+she reunited with de leon and leading man richard gomez in the hit telenovela `` ang iibigin ay ikaw '' -lrb- 2002 to 2005 -rrb- .
+in december 2013 , she pose for fhm philippines , making her the oldest woman to cover on that men 's magazine , at age 44 .
+","Consider the following biography.
+""alice dixson -lrb- born july 28 , 1969 , jessie alice celones dixson -rrb- or often misspelled alice dixon , is a filipino-american actress , commercial model , and former beauty queen .
+born to an american father and a filipino mother , she was the philippines ' representative for miss international in 1986 and became a household name in 1987 through a palmolive soap tv commercial where she sang the phrase '' `` i can feel it ! '' '' .
+after joining a talent contest in `` eat bulaga ! ''
+and binibining pilipinas , her show business career started with the role of faye , a fairy princess , who fell in love with an earthling in `` okay ka , fairy ko '' .
+at that time , eat bulaga !
+was airing on rpn and one of its hosts , vic sotto , requested her to be part of the tv series -lrb- he is the owner of m-zet productions that produced `` okay ka , fairy ko '' -rrb- .
+in january 2011 , she returned to show business via `` babaeng hampaslupa '' which aired on tv5 .
+this was succeeded with `` glamorosa '' , `` isang dakot na luha '' -lrb- 2012 -rrb- , `` enchanted garden '' -lrb- 2012 -rrb- and two movies `` ang panday 2 '' -lrb- 2011 -rrb- and `` just one summer '' -lrb- 2012 -rrb- .
+her next tv series is `` never say goodbye '' which airs in january 2013 on tv5 .
+dixson is a licensed realtor in the province of british columbia , canada and also a licensed real estate agent in the state of florida , usa .
+dixson is also known for her best actress roles in many viva films favorites such as `` hanggang saan , hanggang kailan '' -lrb- 1993 -rrb- , `` sa isang sulok ng pangarap '' -lrb- 1994 , based on the popular comics series by rj nuevas -rrb- , `` pangako ng kahapon '' -lrb- 1994 -rrb- , `` sana dalawa ang puso ko '' -lrb- 1995 -rrb- and the all-star cast of the action film `` silakbo '' -lrb- 1995 -rrb- with cesar montano , anjanette abayari and marjorie barretto .
+dixson is also a film favorite when she was paired with christopher de leon in films like `` my husband 's woman '' -lrb- 1993 -rrb- , `` bakit ngayon ka lang '' -lrb- 1994 , octoarts films -rrb- and `` pahiram kahit sandali '' -lrb- 1999 , regal films -rrb- , which was an r-rated but critically acclaimed film because of both leading woman 's portrayals by dixson and ara mina , earning credit for director maryo j. delos reyes .
+she reunited with de leon and leading man richard gomez in the hit telenovela `` ang iibigin ay ikaw '' -lrb- 2002 to 2005 -rrb- .
+in december 2013 , she pose for fhm philippines , making her the oldest woman to cover on that men 's magazine , at age 44 .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did Alice Dixson become the Philippines' representative for Miss International?  Answer: 1986  2. When did Alice Dixson return to show business via ""Babaeng Hampaslupa""? Answer: 2011  3. When did Alice Dixson pose for FHM Philippines, becoming the oldest woman to cover the magazine? Answer: 2013"
+7,34,34,Irina Apeksimova,Irina Apeksimova,actress,russian,1966,1966,3,"irina apeksimova -lrb- -lrb- born january 13 , 1966 , volgograd , russia -rrb- is a russian stage and screen actress .
+apeksimova was the child of classical musicians , victor nikolaevich apeksimov and svetlana yakivna apeksimova .
+irina was the second child in the family ; her older brother valery later became a jazz composer and pianist in the united states .
+because her parents worked in the theater and music -lrb- her father taught at a music school and later taught piano at a conservatory , and her mother was choirmaster at the municipal theater of musical comedy and later a choir conductor at a conservatory -rrb- , apeksimova was surrounded by talented and creative people .
+she often stayed backstage at the musical theater , where the child actors did their homework and played .
+apeksimova 's parents divorced when she was in the eighth grade , and she moved with her mother to odessa , where she studied acting .
+after high school apeksimova went to moscow to enter the moscow art theater school , but was rejected because of her odessa accent .
+back in odessa , she joined the odessa opera theater and danced for a year in the corps de ballet .
+she then applied again to the moscow art theater school but was again rejected .
+after this setback , irina returned to volgograd and joined the theater of musical comedy , in the corps de ballet .
+after living in volgograd for a year , apeksimova had shed much of her odessa accent , and applied for a third time to the moscow art theater school .
+she was accepted and admitted in 1986 into oleg tabakov 's class .
+at the school , apeksimova became friends with fellow student valery nikolaev , and later married him .
+her class , which also included vladimir mashkov and yevgeny mironov , was considered especially brilliant .
+apeksimova was graduated in 1990 and joined the studio at the moscow art theatre , where she stayed until 2000 .
+in 1994 , she won the best actress award at the paris film festival for her role in the film `` october '' -lrb- Октябрь -rrb- .
+apeksimova is divorced and has a daughter , dasha .
+","Consider the following biography.
+""irina apeksimova -lrb- -lrb- born january 13 , 1966 , volgograd , russia -rrb- is a russian stage and screen actress .
+apeksimova was the child of classical musicians , victor nikolaevich apeksimov and svetlana yakivna apeksimova .
+irina was the second child in the family ; her older brother valery later became a jazz composer and pianist in the united states .
+because her parents worked in the theater and music -lrb- her father taught at a music school and later taught piano at a conservatory , and her mother was choirmaster at the municipal theater of musical comedy and later a choir conductor at a conservatory -rrb- , apeksimova was surrounded by talented and creative people .
+she often stayed backstage at the musical theater , where the child actors did their homework and played .
+apeksimova 's parents divorced when she was in the eighth grade , and she moved with her mother to odessa , where she studied acting .
+after high school apeksimova went to moscow to enter the moscow art theater school , but was rejected because of her odessa accent .
+back in odessa , she joined the odessa opera theater and danced for a year in the corps de ballet .
+she then applied again to the moscow art theater school but was again rejected .
+after this setback , irina returned to volgograd and joined the theater of musical comedy , in the corps de ballet .
+after living in volgograd for a year , apeksimova had shed much of her odessa accent , and applied for a third time to the moscow art theater school .
+she was accepted and admitted in 1986 into oleg tabakov 's class .
+at the school , apeksimova became friends with fellow student valery nikolaev , and later married him .
+her class , which also included vladimir mashkov and yevgeny mironov , was considered especially brilliant .
+apeksimova was graduated in 1990 and joined the studio at the moscow art theatre , where she stayed until 2000 .
+in 1994 , she won the best actress award at the paris film festival for her role in the film `` october '' -lrb- Октябрь -rrb- .
+apeksimova is divorced and has a daughter , dasha .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Irina Apeksimova born?  Answer: January 13, 1966  2. When did Irina Apeksimova graduate from the Moscow Art Theater school?  Answer: 1990  3. When did Irina Apeksimova win the Best Actress award at the Paris Film Festival?  Answer: 1994"
+8,2,2,Ivo Siromahov,Ivo Siromahov,"writer , playwright , humorist , journalist",bulgarian,1971,1971,0,"ivo siromahov -lrb- -rrb- is a bulgarian writer , humorist and dramatist .
+siromahov was born on december 29 , 1971 in sofia , bulgaria .
+after graduating from the national school for ancient languages and culture in sofia , he studied stage direction at the krastyo sarafov national academy for theatre and film arts .
+as theatrical director , he staged in sofia a number of successful performances like : nikolai gogol 's '' `` zhenitba '' '' , john osborne 's '' `` look back in anger '' '' , keith waterhouse 's '' `` billy liar '' '' , william shakespeare 's '' `` macbeth '' '' .
+in 1995 he got the award for arts debut of the bulgarian national radio .
+from 1998 to 2001 siromahov wrote political satire and headed the cultural section at the bulgarian daily newspaper `` 24 chasa '' -lrb- meaning : `` 24 hours '' -rrb- .
+afterwards , he became a scriptwriter for bulgaria 's most popular evening prime-time talk show `` slavi 's show '' .
+ivo siromahov writes articles and comments for the bulgarian editions of magazines like '' `` playboy '' '' , '' `` hustler '' '' and the local magazine '' `` max '' '' .
+his first book , '' `` a night in the cemetery '' '' , was published in 1999 .
+the second one , '' `` an optimistic theory of bulgarian sex '' '' , was published in 2007 and the third one , '' `` diaries and nightgowns '' '' in 2008 , '' `` more diaries and nightgowns '' '' in 2009 .
+his last book '' `` bg diaries and nightgowns .
+the creators '' '' was published in 2011 .
+","Consider the following biography.
+""ivo siromahov -lrb- -rrb- is a bulgarian writer , humorist and dramatist .
+siromahov was born on december 29 , 1971 in sofia , bulgaria .
+after graduating from the national school for ancient languages and culture in sofia , he studied stage direction at the krastyo sarafov national academy for theatre and film arts .
+as theatrical director , he staged in sofia a number of successful performances like : nikolai gogol 's '' `` zhenitba '' '' , john osborne 's '' `` look back in anger '' '' , keith waterhouse 's '' `` billy liar '' '' , william shakespeare 's '' `` macbeth '' '' .
+in 1995 he got the award for arts debut of the bulgarian national radio .
+from 1998 to 2001 siromahov wrote political satire and headed the cultural section at the bulgarian daily newspaper `` 24 chasa '' -lrb- meaning : `` 24 hours '' -rrb- .
+afterwards , he became a scriptwriter for bulgaria 's most popular evening prime-time talk show `` slavi 's show '' .
+ivo siromahov writes articles and comments for the bulgarian editions of magazines like '' `` playboy '' '' , '' `` hustler '' '' and the local magazine '' `` max '' '' .
+his first book , '' `` a night in the cemetery '' '' , was published in 1999 .
+the second one , '' `` an optimistic theory of bulgarian sex '' '' , was published in 2007 and the third one , '' `` diaries and nightgowns '' '' in 2008 , '' `` more diaries and nightgowns '' '' in 2009 .
+his last book '' `` bg diaries and nightgowns .
+the creators '' '' was published in 2011 .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Ivo Siromahov's first book, ""A Night in the Cemetery,"" published?  Answer: 1999  2. In which year did Ivo Siromahov receive the award for arts debut of the Bulgarian National Radio?  Answer: 1995  3. When was Ivo Siromahov's last book, ""BG Diaries and Nightgowns: The Creators,"" published?  Answer: 2011"
+9,148,148,Nawar Bulbul,Nawar Boulboul,"playwright , director , actor",syrian,1973,1973,3,"nawar bulbul -lrb- 1973 -rrb- , is a syrian theatre director , actor , playwright , and founder of al-khareef theatre troupe in damascus , syria .
+most noted for his acting role in the widely watched arab historical drama bab al-hara , nawar bulbul has received numerous awards and performed in plays internationally .
+he received nominations for best actor in his role in the play ismail hamlet at the lift london and carthage theatre festivals .
+in 2006 he travelled to texas for the midland international theatre festival , where he received an award for excellence in acting .
+in 2010 bulbul and his writing and acting partner ramez alaswad returned to the united states where they performed their two man show `` the solitary '' at the san francisco international arts festival .
+this was part of a tour that brought bulbul and alaswad to japan , spain , canada , and the czech republic .
+in 2011 , as a result of his playwrighting and directing work and because of his participation in protests against the al-assad government , bulbul was forced to relocate to jordan .
+in 2014 he began working with children in the zaatari refugee camp in mashraq , jordan , where he directed approximately 100 young actors in an adaptation of shakespeare 's `` king lear '' .
+this work attracted the attention of the international press and the unhcr .
+in an interview with the new york times on march 31 , 2014 , bulbul explained , `` the show is to bring back laughter , joy and humanity . ''
+","Consider the following biography.
+""nawar bulbul -lrb- 1973 -rrb- , is a syrian theatre director , actor , playwright , and founder of al-khareef theatre troupe in damascus , syria .
+most noted for his acting role in the widely watched arab historical drama bab al-hara , nawar bulbul has received numerous awards and performed in plays internationally .
+he received nominations for best actor in his role in the play ismail hamlet at the lift london and carthage theatre festivals .
+in 2006 he travelled to texas for the midland international theatre festival , where he received an award for excellence in acting .
+in 2010 bulbul and his writing and acting partner ramez alaswad returned to the united states where they performed their two man show `` the solitary '' at the san francisco international arts festival .
+this was part of a tour that brought bulbul and alaswad to japan , spain , canada , and the czech republic .
+in 2011 , as a result of his playwrighting and directing work and because of his participation in protests against the al-assad government , bulbul was forced to relocate to jordan .
+in 2014 he began working with children in the zaatari refugee camp in mashraq , jordan , where he directed approximately 100 young actors in an adaptation of shakespeare 's `` king lear '' .
+this work attracted the attention of the international press and the unhcr .
+in an interview with the new york times on march 31 , 2014 , bulbul explained , `` the show is to bring back laughter , joy and humanity . ''
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did Nawar Bulbul receive an award for excellence in acting at the Midland International Theatre Festival in Texas? Answer: 2006  2. When did Nawar Bulbul and Ramez Alaswad perform their two-man show ""The Solitary"" at the San Francisco International Arts Festival? Answer: 2010  3. When did Nawar Bulbul begin working with children in the Zaatari refugee camp in Mashraq, Jordan, and directed approximately 100 young actors in an adaptation of Shakespeare's ""King Lear""? Answer: 2014"
+10,36,36,Akmal Shaikh,Akmal Shaikh,former estate agent/mini-cab businessman,british,1956,1956,142,"akmal shaikh -lrb- 5 april 1956 -- 29 december 2009 -rrb- was a pakistani-british businessman who was convicted and executed in china for drug trafficking .
+the trial and execution attracted significant media attention in the uk .
+shaikh was born in pakistan and moved to the united kingdom as a child .
+after a couple of failed businesses , shaikh moved to poland with his second wife in 2005 with the dream of starting an airline , and later of becoming a pop star .
+he travelled from poland to china and was arrested by chinese customs officers at Ürümqi diwopu international airport on 12 september 2007 with of heroin hidden in a compartment in his baggage .
+shaikh 's defence team pleaded ignorance of the existence of the drugs , although his lawyers said that the evidence against shaikh was `` overwhelming '' .
+reprieve , an anti-death penalty organisation , argued that shaikh suffered from mental illness which was exploited by criminals who tricked him into transporting the heroin on the promise of a recording contract .
+shaikh , who had never been assessed by mental health experts , denied he was mentally ill .
+he had requested a psychiatric evaluation to prove he was sane , but the requests were refused by chinese authorities on the grounds that prc laws required defendants to first provide past medical records showing evidence of a mental disorder before such evaluations could be undertaken .
+appeals for clemency were made by his family and by british government officials .
+after two appeals , the supreme court confirmed the death sentence he was given at his first trial in october 2008 , and shaikh was executed by lethal injection in Ürümqi on 29 december 2009 .
+it was reported that shaikh was the first european national to be executed in china since antonio riva in 1951 .
+lau fat-wai , a portuguese citizen , also faced drug trafficking charges back in 2006 , before akmal shaikh , but mr. lau 's death sentence was only carried out early in 2013 .
+britain made 27 official representations to the chinese government ; the chinese ambassador to london was summoned twice to meet british foreign office ministers , once after the execution .
+senior british politicians strongly condemned the execution , and were disappointed that clemency was not granted , while human rights groups and some western legal experts in chinese law criticised the lack of due process ; united nations special rapporteur , philip alston , said the refusal to assess shaikh 's mental health was a violation of international law .
+the chinese embassy in britain said shaikh had no `` previous medical record '' of mental illness and that his `` rights and interests were properly respected and guaranteed '' .
+it said the chinese stance underlined the `` strong resentment '' felt by its public to drug traffickers , in part based on `` the bitter memory of history '' -- a reference to the first and second opium wars .
+a professor of criminal law at the east china university of political science and law said the administration of the death penalty related to a country 's history , culture and other conditions : `` it 's human nature to plead for a criminal who is from the same country or the same family , but judicial independence should be fully respected and everyone should be equal before the law . ''
+","Consider the following biography.
+""akmal shaikh -lrb- 5 april 1956 -- 29 december 2009 -rrb- was a pakistani-british businessman who was convicted and executed in china for drug trafficking .
+the trial and execution attracted significant media attention in the uk .
+shaikh was born in pakistan and moved to the united kingdom as a child .
+after a couple of failed businesses , shaikh moved to poland with his second wife in 2005 with the dream of starting an airline , and later of becoming a pop star .
+he travelled from poland to china and was arrested by chinese customs officers at Ürümqi diwopu international airport on 12 september 2007 with of heroin hidden in a compartment in his baggage .
+shaikh 's defence team pleaded ignorance of the existence of the drugs , although his lawyers said that the evidence against shaikh was `` overwhelming '' .
+reprieve , an anti-death penalty organisation , argued that shaikh suffered from mental illness which was exploited by criminals who tricked him into transporting the heroin on the promise of a recording contract .
+shaikh , who had never been assessed by mental health experts , denied he was mentally ill .
+he had requested a psychiatric evaluation to prove he was sane , but the requests were refused by chinese authorities on the grounds that prc laws required defendants to first provide past medical records showing evidence of a mental disorder before such evaluations could be undertaken .
+appeals for clemency were made by his family and by british government officials .
+after two appeals , the supreme court confirmed the death sentence he was given at his first trial in october 2008 , and shaikh was executed by lethal injection in Ürümqi on 29 december 2009 .
+it was reported that shaikh was the first european national to be executed in china since antonio riva in 1951 .
+lau fat-wai , a portuguese citizen , also faced drug trafficking charges back in 2006 , before akmal shaikh , but mr. lau 's death sentence was only carried out early in 2013 .
+britain made 27 official representations to the chinese government ; the chinese ambassador to london was summoned twice to meet british foreign office ministers , once after the execution .
+senior british politicians strongly condemned the execution , and were disappointed that clemency was not granted , while human rights groups and some western legal experts in chinese law criticised the lack of due process ; united nations special rapporteur , philip alston , said the refusal to assess shaikh 's mental health was a violation of international law .
+the chinese embassy in britain said shaikh had no `` previous medical record '' of mental illness and that his `` rights and interests were properly respected and guaranteed '' .
+it said the chinese stance underlined the `` strong resentment '' felt by its public to drug traffickers , in part based on `` the bitter memory of history '' -- a reference to the first and second opium wars .
+a professor of criminal law at the east china university of political science and law said the administration of the death penalty related to a country 's history , culture and other conditions : `` it 's human nature to plead for a criminal who is from the same country or the same family , but judicial independence should be fully respected and everyone should be equal before the law . ''
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was Akmal Shaikh executed in China? Answer: Akmal Shaikh was executed in China in 2009.  2. When did Akmal Shaikh move to Poland with his second wife? Answer: Akmal Shaikh moved to Poland with his second wife in 2005.  3. When was the first European national executed in China before Akmal Shaikh? Answer: The first European national executed in China before Akmal Shaikh was Antonio Riva in 1951.
+11,124,124,Will Firth,Will Firth,literary translator,australian,1965,1965,4,"will firth , born 23 may 1965 in newcastle , australia , is a literary translator who focuses on contemporary writing from the serbo-croatian speaking countries and macedonia .
+he graduated in german and russian -lrb- with serbo-croatian as a minor -rrb- from the australian national university in canberra in 1986 -lrb- ba -rrb- .
+he won a scholarship to read south slavic studies at the university of zagreb in the 1988-89 academic year and spent a further postgraduate year at the pushkin institute in moscow in 1989-90 .
+subsequently he qualified as a translator from croatian , german , macedonian and russian with the national accreditation authority for translators and interpreters -lrb- naati -rrb- in australia .
+since 1991 he has been living in germany , where he works as a freelance translator of literature and the humanities .
+he translates from russian , macedonian , and all variants of serbo-croatian into english , occasionally into german .
+in 2005-07 he worked for the international criminal tribunal for the former yugoslavia -lrb- icty -rrb- .
+since the mid-2000s , firth has largely been translating works of south slavic literature .
+he is a member of the professional associations of translators in australia -lrb- ausit -rrb- and germany -lrb- vdÜ -rrb- .
+","Consider the following biography.
+""will firth , born 23 may 1965 in newcastle , australia , is a literary translator who focuses on contemporary writing from the serbo-croatian speaking countries and macedonia .
+he graduated in german and russian -lrb- with serbo-croatian as a minor -rrb- from the australian national university in canberra in 1986 -lrb- ba -rrb- .
+he won a scholarship to read south slavic studies at the university of zagreb in the 1988-89 academic year and spent a further postgraduate year at the pushkin institute in moscow in 1989-90 .
+subsequently he qualified as a translator from croatian , german , macedonian and russian with the national accreditation authority for translators and interpreters -lrb- naati -rrb- in australia .
+since 1991 he has been living in germany , where he works as a freelance translator of literature and the humanities .
+he translates from russian , macedonian , and all variants of serbo-croatian into english , occasionally into german .
+in 2005-07 he worked for the international criminal tribunal for the former yugoslavia -lrb- icty -rrb- .
+since the mid-2000s , firth has largely been translating works of south slavic literature .
+he is a member of the professional associations of translators in australia -lrb- ausit -rrb- and germany -lrb- vdÜ -rrb- .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When did Will Firth graduate from the Australian National University? Answer: 1986  2. In which years did Will Firth study South Slavic studies at the University of Zagreb and the Pushkin Institute in Moscow? Answer: 1988-89 and 1989-90  3. Since when has Will Firth been living in Germany? Answer: 1991
+12,160,160,Madhuri Dixit,Madhuri Dixit,actress,indian,1967,1967,301,"madhuri dixit -lrb- born 15 may 1967 -rrb- , also known as madhuri dixit-nene after her marriage , is an indian actress who is known for her work in hindi cinema .
+a leading actress of bollywood in the 1980s , 1990s and early-2000s , dixit has been praised by critics for her acting and dancing skills , and achieved mass popularity due to her physical beauty .
+she has received six filmfare awards , four for best actress , one for best supporting actress and one special award .
+she has also been nominated for the filmfare award for best actress a record fourteen times .
+she was awarded the padma shri , india 's fourth-highest civilian award , by the government of india in 2008 .
+dixit made her film debut in `` abodh '' -lrb- 1984 -rrb- and received wider public recognition with `` tezaab '' -lrb- 1988 -rrb- .
+she went on to establish herself as a leading actress of hindi cinema with the films `` ram lakhan '' -lrb- 1989 -rrb- , `` parinda '' -lrb- 1989 -rrb- , `` dil '' -lrb- 1990 -rrb- , `` saajan '' -lrb- 1991 -rrb- , `` beta '' -lrb- 1992 -rrb- , `` khalnayak '' -lrb- 1993 -rrb- , `` hum aapke hain koun . . ! ''
+-lrb- 1994 -rrb- , `` raja '' -lrb- 1995 -rrb- , and `` dil to pagal hai '' -lrb- 1997 -rrb- .
+she also garnered critical acclaim for her work in the dramas `` anjaam '' -lrb- 1994 -rrb- , `` mrityudand '' -lrb- 1997 -rrb- , `` pukar '' -lrb- 2000 -rrb- , `` lajja '' -lrb- 2001 -rrb- and `` devdas '' -lrb- 2002 -rrb- .
+in 2002 , she took a sabbatical from films to raise her children and made a comeback with the musical `` aaja nachle '' in 2007 , later starring in the 2014 dramas `` dedh ishqiya '' and `` gulaab gang '' .
+in addition to acting in films , dixit has featured as a talent judge for four seasons of the dance reality show `` jhalak dikhhla jaa '' .
+she has participated in several stage shows and has engaged in philanthropic activities .
+in 2014 she was appointed the unicef goodwill ambassador in india .
+she is married to the doctor shriram madhav nene , with whom she has two children .
+she also appeared in `` superwoman '' 's youtube video , '' `` what bollywood has taught me '' '' .
+","Consider the following biography.
+""madhuri dixit -lrb- born 15 may 1967 -rrb- , also known as madhuri dixit-nene after her marriage , is an indian actress who is known for her work in hindi cinema .
+a leading actress of bollywood in the 1980s , 1990s and early-2000s , dixit has been praised by critics for her acting and dancing skills , and achieved mass popularity due to her physical beauty .
+she has received six filmfare awards , four for best actress , one for best supporting actress and one special award .
+she has also been nominated for the filmfare award for best actress a record fourteen times .
+she was awarded the padma shri , india 's fourth-highest civilian award , by the government of india in 2008 .
+dixit made her film debut in `` abodh '' -lrb- 1984 -rrb- and received wider public recognition with `` tezaab '' -lrb- 1988 -rrb- .
+she went on to establish herself as a leading actress of hindi cinema with the films `` ram lakhan '' -lrb- 1989 -rrb- , `` parinda '' -lrb- 1989 -rrb- , `` dil '' -lrb- 1990 -rrb- , `` saajan '' -lrb- 1991 -rrb- , `` beta '' -lrb- 1992 -rrb- , `` khalnayak '' -lrb- 1993 -rrb- , `` hum aapke hain koun . . ! ''
+-lrb- 1994 -rrb- , `` raja '' -lrb- 1995 -rrb- , and `` dil to pagal hai '' -lrb- 1997 -rrb- .
+she also garnered critical acclaim for her work in the dramas `` anjaam '' -lrb- 1994 -rrb- , `` mrityudand '' -lrb- 1997 -rrb- , `` pukar '' -lrb- 2000 -rrb- , `` lajja '' -lrb- 2001 -rrb- and `` devdas '' -lrb- 2002 -rrb- .
+in 2002 , she took a sabbatical from films to raise her children and made a comeback with the musical `` aaja nachle '' in 2007 , later starring in the 2014 dramas `` dedh ishqiya '' and `` gulaab gang '' .
+in addition to acting in films , dixit has featured as a talent judge for four seasons of the dance reality show `` jhalak dikhhla jaa '' .
+she has participated in several stage shows and has engaged in philanthropic activities .
+in 2014 she was appointed the unicef goodwill ambassador in india .
+she is married to the doctor shriram madhav nene , with whom she has two children .
+she also appeared in `` superwoman '' 's youtube video , '' `` what bollywood has taught me '' '' .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When did Madhuri Dixit receive the Padma Shri award? Answer: Madhuri Dixit received the Padma Shri award in 2008.  2. When did Madhuri Dixit make her film debut? Answer: Madhuri Dixit made her film debut in 1984.  3. When did Madhuri Dixit take a sabbatical from films to raise her children? Answer: Madhuri Dixit took a sabbatical from films in 2002.
+13,72,72,Claudette Colbert,Claudette Colbert,actress,american,1903,1903,162,"claudette colbert -lrb- ; 13 september 1903 -- 30 july 1996 -rrb- was a french-born american actress , and a leading lady for two decades .
+colbert began her career in broadway productions during the 1920s , progressing to film with the advent of talking pictures .
+initially associated with paramount pictures , colbert later gradually shifted to working as a freelance actor .
+she won the academy award for best actress in `` it happened one night '' -lrb- 1934 -rrb- , the first woman born outside of north america to do so , and also received academy award nominations for `` private worlds '' -lrb- 1935 -rrb- and `` since you went away '' -lrb- 1944 -rrb- .
+with her round apple-face , colbert was known as an expert screwball comedienne , but her dramatic range enabled her to easily encompass melodrama and to play characters ranging from vamps to housewives .
+during her career , colbert starred in more than sixty movies .
+she was the industry 's biggest box-office star in 1938 and 1942 .
+by the mid 1950s , she had largely retired from the screen in favor of television and stage work , earning a tony award nomination for `` the marriage-go-round '' in 1959 .
+her career tapered off during the early 1960s , but in the late 1970s she experienced a career resurgence in theater , earning a sarah siddons award for her chicago theater work in 1980 .
+for her television work in `` the two mrs. grenvilles '' -lrb- 1987 -rrb- she won a golden globe award and received an emmy award nomination .
+in 1999 , the american film institute voted colbert the `` 12th greatest female american screen legend '' in cinema .
+","Consider the following biography.
+""claudette colbert -lrb- ; 13 september 1903 -- 30 july 1996 -rrb- was a french-born american actress , and a leading lady for two decades .
+colbert began her career in broadway productions during the 1920s , progressing to film with the advent of talking pictures .
+initially associated with paramount pictures , colbert later gradually shifted to working as a freelance actor .
+she won the academy award for best actress in `` it happened one night '' -lrb- 1934 -rrb- , the first woman born outside of north america to do so , and also received academy award nominations for `` private worlds '' -lrb- 1935 -rrb- and `` since you went away '' -lrb- 1944 -rrb- .
+with her round apple-face , colbert was known as an expert screwball comedienne , but her dramatic range enabled her to easily encompass melodrama and to play characters ranging from vamps to housewives .
+during her career , colbert starred in more than sixty movies .
+she was the industry 's biggest box-office star in 1938 and 1942 .
+by the mid 1950s , she had largely retired from the screen in favor of television and stage work , earning a tony award nomination for `` the marriage-go-round '' in 1959 .
+her career tapered off during the early 1960s , but in the late 1970s she experienced a career resurgence in theater , earning a sarah siddons award for her chicago theater work in 1980 .
+for her television work in `` the two mrs. grenvilles '' -lrb- 1987 -rrb- she won a golden globe award and received an emmy award nomination .
+in 1999 , the american film institute voted colbert the `` 12th greatest female american screen legend '' in cinema .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did Claudette Colbert win the Academy Award for Best Actress for ""It Happened One Night""? Answer: 1934  2. When did Claudette Colbert experience a career resurgence in theater and earn a Sarah Siddons Award for her Chicago theater work? Answer: 1980  3. When was Claudette Colbert voted the ""12th greatest female American screen legend"" by the American Film Institute? Answer: 1999"
+14,16,16,Dominic Tildesley,Dominic Tildesley,chemist,british,1952,1952,9,"professor dominic tildesley -lrb- born 1952 , forest hill -rrb- is a british chemist .
+he gained his undergraduate chemistry degree from the university of southampton in 1973 .
+he went on to complete a dphil at oxford university in 1976 before undertaking postdoctoral research at penn state and cornell universities in the united states .
+he returned to the university of southampton in the uk for a lectureship , before becoming professor of theoretical chemistry and moving to imperial college london in 1996 as professor of computational chemistry .
+he began his industrial career in 1998 when he took the role of head of the physical science group at unilever research port sunlight , where he remained until 2012 .
+he is director of the european centre for atomic and molecular computation at the in switzerland .
+in july 2014 , he became president of the royal society of chemistry -lrb- succeeding professor lesley yellowlees -rrb- and received an honorary degree from the university of southampton .
+","Consider the following biography.
+""professor dominic tildesley -lrb- born 1952 , forest hill -rrb- is a british chemist .
+he gained his undergraduate chemistry degree from the university of southampton in 1973 .
+he went on to complete a dphil at oxford university in 1976 before undertaking postdoctoral research at penn state and cornell universities in the united states .
+he returned to the university of southampton in the uk for a lectureship , before becoming professor of theoretical chemistry and moving to imperial college london in 1996 as professor of computational chemistry .
+he began his industrial career in 1998 when he took the role of head of the physical science group at unilever research port sunlight , where he remained until 2012 .
+he is director of the european centre for atomic and molecular computation at the in switzerland .
+in july 2014 , he became president of the royal society of chemistry -lrb- succeeding professor lesley yellowlees -rrb- and received an honorary degree from the university of southampton .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When did Professor Dominic Tildesley complete his DPhil at Oxford University? Answer: 1976  2. When did Professor Dominic Tildesley become the President of the Royal Society of Chemistry? Answer: 2014  3. When did Professor Dominic Tildesley begin his industrial career at Unilever Research Port Sunlight? Answer: 1998
+15,21,21,Jack Mcdevitt,Jack Mcdevitt,"novelist , short story writer",american,1935,1935,29,"jack mcdevitt -lrb- born april 14 , 1935 -rrb- is an american science fiction author whose novels frequently deal with attempts to make contact with alien races , and with archaeology or xenoarchaeology .
+his two main series are the alex benedict series and the priscilla hutchins series .
+mcdevitt 's first published story was `` the emerson effect '' in `` the twilight zone magazine '' in 1981 .
+five years later , he published his first novel , `` the hercules text '' , about the discovery of an intelligently conceived signal whose repercussions threaten human civilization .
+this novel set the tone for many of mcdevitt 's following novels , which focused on making first contact .
+frequently this theme is mixed with both trepidation before the unknown and a sense of wonder at the universe .
+with `` the engines of god '' -lrb- 1994 -rrb- , mcdevitt introduced the idea of a universe that was once teeming with intelligent life , but contains only their abandoned artifacts by the time humans arrive on the scene .
+although it was initially written as a standalone novel , the main character of `` the engines of god '' , pilot priscilla hutchins , has since appeared in six more books , `` deepsix '' -lrb- 2001 -rrb- , `` chindi '' -lrb- 2002 -rrb- , `` omega '' -lrb- 2003 -rrb- , `` odyssey '' -lrb- 2006 -rrb- , `` cauldron '' -lrb- 2007 -rrb- and `` starhawk '' -lrb- 2013 -rrb- .
+the mystery surrounding the destructive `` omega clouds '' -lrb- which are introduced in `` the engines of god '' -rrb- is left unexplored until `` omega '' .
+mcdevitt 's novels frequently raise questions which he does not attempt to answer .
+he prefers to leave ambiguities to puzzle and intrigue his readers : `` some things are best left to the reader 's very able imagination . ''
+the sf site 's steven h silver has written about this : the novel `` seeker '' won the 2006 nebula award for best novel , given by the science fiction and fantasy writers of america .
+he has been nominated for the nebula award sixteen times ; `` seeker '' is his only win .
+","Consider the following biography.
+""jack mcdevitt -lrb- born april 14 , 1935 -rrb- is an american science fiction author whose novels frequently deal with attempts to make contact with alien races , and with archaeology or xenoarchaeology .
+his two main series are the alex benedict series and the priscilla hutchins series .
+mcdevitt 's first published story was `` the emerson effect '' in `` the twilight zone magazine '' in 1981 .
+five years later , he published his first novel , `` the hercules text '' , about the discovery of an intelligently conceived signal whose repercussions threaten human civilization .
+this novel set the tone for many of mcdevitt 's following novels , which focused on making first contact .
+frequently this theme is mixed with both trepidation before the unknown and a sense of wonder at the universe .
+with `` the engines of god '' -lrb- 1994 -rrb- , mcdevitt introduced the idea of a universe that was once teeming with intelligent life , but contains only their abandoned artifacts by the time humans arrive on the scene .
+although it was initially written as a standalone novel , the main character of `` the engines of god '' , pilot priscilla hutchins , has since appeared in six more books , `` deepsix '' -lrb- 2001 -rrb- , `` chindi '' -lrb- 2002 -rrb- , `` omega '' -lrb- 2003 -rrb- , `` odyssey '' -lrb- 2006 -rrb- , `` cauldron '' -lrb- 2007 -rrb- and `` starhawk '' -lrb- 2013 -rrb- .
+the mystery surrounding the destructive `` omega clouds '' -lrb- which are introduced in `` the engines of god '' -rrb- is left unexplored until `` omega '' .
+mcdevitt 's novels frequently raise questions which he does not attempt to answer .
+he prefers to leave ambiguities to puzzle and intrigue his readers : `` some things are best left to the reader 's very able imagination . ''
+the sf site 's steven h silver has written about this : the novel `` seeker '' won the 2006 nebula award for best novel , given by the science fiction and fantasy writers of america .
+he has been nominated for the nebula award sixteen times ; `` seeker '' is his only win .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Jack McDevitt's first published story, ""The Emerson Effect,"" released in ""The Twilight Zone Magazine""? Answer: 1981  2. In what year did Jack McDevitt publish his first novel, ""The Hercules Text,"" which explores the discovery of an intelligently conceived signal with potential consequences for human civilization? Answer: 1986  3. What year did ""Seeker,"" one of Jack McDevitt's novels, win the Nebula Award for Best Novel? Answer: 2006"
+16,50,50,John Alexander `` Jack '' Hopps,John Alexander Hopps,medical researcher,canadian,1919,1919,16,"john alexander `` jack '' hopps , -lrb- may 21 , 1919 -- november 24 , 1998 -rrb- was one of the pioneers of the artificial pacemaker and is known as the `` father of biomedical engineering in canada '' .
+born in winnipeg , manitoba , he received a b.sc.eng .
+degree in electrical engineering from the university of manitoba in 1941 .
+he joined the national research council of canada -lrb- nrc -rrb- in 1942 .
+beginning in 1949 , he worked with dr. wilfred bigelow and dr. john callaghan at the banting institute in the university of toronto , developing the world 's first external artificial pacemaker in 1951 .
+-lrb- the first internal pacemaker was implanted in a human body by a swedish team in 1958 . -rrb-
+in 1965 , hopps founded the canadian medical and biological engineering society -lrb- cmbes -rrb- and became its first president .
+he was also the president of the ontario heart foundation -lrb- ottawa chapter -rrb- .
+in 1985 , his autobiography , `` passing pulses , the pacemaker and medical engineering : a canadian story '' , was published .
+in 1986 , he was made an officer of the order of canada .
+he is a member of the canadian science and engineering hall of fame .
+","Consider the following biography.
+""john alexander `` jack '' hopps , -lrb- may 21 , 1919 -- november 24 , 1998 -rrb- was one of the pioneers of the artificial pacemaker and is known as the `` father of biomedical engineering in canada '' .
+born in winnipeg , manitoba , he received a b.sc.eng .
+degree in electrical engineering from the university of manitoba in 1941 .
+he joined the national research council of canada -lrb- nrc -rrb- in 1942 .
+beginning in 1949 , he worked with dr. wilfred bigelow and dr. john callaghan at the banting institute in the university of toronto , developing the world 's first external artificial pacemaker in 1951 .
+-lrb- the first internal pacemaker was implanted in a human body by a swedish team in 1958 . -rrb-
+in 1965 , hopps founded the canadian medical and biological engineering society -lrb- cmbes -rrb- and became its first president .
+he was also the president of the ontario heart foundation -lrb- ottawa chapter -rrb- .
+in 1985 , his autobiography , `` passing pulses , the pacemaker and medical engineering : a canadian story '' , was published .
+in 1986 , he was made an officer of the order of canada .
+he is a member of the canadian science and engineering hall of fame .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was the first external artificial pacemaker developed at the University of Toronto? Answer: 1951  2. In which year was the Canadian Medical and Biological Engineering Society (CMBES) founded by John Alexander Hopps? Answer: 1965  3. What year was John Alexander Hopps made an Officer of the Order of Canada? Answer: 1986
+17,179,179,Margaret Mahy,Margaret Mahy,"writer , librarian",new zealand,1936,1936,63,"margaret mahy , onz -lrb- 21 march 1936 -- 23 july 2012 -rrb- was a new zealand author of children 's and young adult books .
+many of her story plots have strong supernatural elements but her writing concentrates on the themes of human relationships and growing up .
+she wrote more than 100 picture books , 40 novels and 20 collections of short stories .
+at her death she was one of thirty writers to win the biennial , international hans christian andersen medal for her `` lasting contribution to children 's literature '' .
+mahy won the annual carnegie medal from the library association , recognising the year 's best children 's book by a british subject , both for `` the haunting '' -lrb- 1982 -rrb- and for `` the changeover '' -lrb- 1984 -rrb- .
+-lrb- as of 2012 seven writers have won two carnegies , none three . -rrb-
+she was also a highly commended runner up for `` memory '' -lrb- 1987 -rrb- .
+among her children 's books , `` a lion in the meadow '' and `` the seven chinese brothers '' and `` the man whose mother was a pirate '' are considered national classics .
+her novels have been translated into german , french , spanish , dutch , norwegian , danish , swedish , finnish , italian , japanese , catalan and afrikaans .
+in addition , some stories have been translated into russian , chinese and icelandic .
+","Consider the following biography.
+""margaret mahy , onz -lrb- 21 march 1936 -- 23 july 2012 -rrb- was a new zealand author of children 's and young adult books .
+many of her story plots have strong supernatural elements but her writing concentrates on the themes of human relationships and growing up .
+she wrote more than 100 picture books , 40 novels and 20 collections of short stories .
+at her death she was one of thirty writers to win the biennial , international hans christian andersen medal for her `` lasting contribution to children 's literature '' .
+mahy won the annual carnegie medal from the library association , recognising the year 's best children 's book by a british subject , both for `` the haunting '' -lrb- 1982 -rrb- and for `` the changeover '' -lrb- 1984 -rrb- .
+-lrb- as of 2012 seven writers have won two carnegies , none three . -rrb-
+she was also a highly commended runner up for `` memory '' -lrb- 1987 -rrb- .
+among her children 's books , `` a lion in the meadow '' and `` the seven chinese brothers '' and `` the man whose mother was a pirate '' are considered national classics .
+her novels have been translated into german , french , spanish , dutch , norwegian , danish , swedish , finnish , italian , japanese , catalan and afrikaans .
+in addition , some stories have been translated into russian , chinese and icelandic .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did Margaret Mahy win the Carnegie Medal for her book ""The Haunting""? Answer: 1982  2. When did Margaret Mahy win the Carnegie Medal for her book ""The Changeover""? Answer: 1984  3. When was Margaret Mahy a highly commended runner up for her book ""Memory""? Answer: 1987"
+18,79,79,Robert Young Pelton,Robert Young Pelton,"journalist , author",american/canadian,1955,1955,92,"robert young pelton -lrb- born july 25 , 1955 in edmonton , alberta -rrb- is an author , journalist and documentary filmmaker .
+pelton 's journalistic work usually consists of conflict reporting and interviews with military and political figures in warzones .
+his career is notable because of the number of conflict zones he has reported from and the breadth of important figures he has interviewed .
+his reputation is built on his history of entering forbidden , deadly and violent places .
+pelton has been present at conflicts such as the battle of qala-i-jangi in afghanistan , the battle of grozny -lrb- 1999-2000 -rrb- in chechnya , the rebel campaign to take monrovia in liberia , the siege on villa somalia in mogadishu and has been with ground forces in approximately 40 other conflicts .
+he survived an assassination attempt in uganda , spent time with the taliban and the northern alliance pre 9/11 , the cia during the hunt for bin laden and also with both insurgents and blackwater security contractors during the war in iraq pelton 's regularly published survival and political guide `` the world 's most dangerous places '' , provides practical and survival information for people who work and travel in high risk zones , and is a bestseller .
+with the book 's bestseller status pelton has become an expert on work and travel in `` high-risk '' environments .
+he was also host of the discovery travel channel series robert young pelton 's the world 's most dangerous places from 1998 to 2003 .
+now residing in los angeles , pelton currently writes books , produces documentaries on conflict-related subjects and operates cultural engagement journeys into the world 's most dangerous and forbidden places .
+pelton is also a frequent television and magazine interview subject , often appearing as a raconteur of his various adventures and safety tips on shows as diverse as oprah , conan o'brien , cnn , fox , bbc , abc , cbs , nbc and others .
+pelton is a regular commentator for shepard smith 's on fox news , providing insight and background on breaking news .
+","Consider the following biography.
+""robert young pelton -lrb- born july 25 , 1955 in edmonton , alberta -rrb- is an author , journalist and documentary filmmaker .
+pelton 's journalistic work usually consists of conflict reporting and interviews with military and political figures in warzones .
+his career is notable because of the number of conflict zones he has reported from and the breadth of important figures he has interviewed .
+his reputation is built on his history of entering forbidden , deadly and violent places .
+pelton has been present at conflicts such as the battle of qala-i-jangi in afghanistan , the battle of grozny -lrb- 1999-2000 -rrb- in chechnya , the rebel campaign to take monrovia in liberia , the siege on villa somalia in mogadishu and has been with ground forces in approximately 40 other conflicts .
+he survived an assassination attempt in uganda , spent time with the taliban and the northern alliance pre 9/11 , the cia during the hunt for bin laden and also with both insurgents and blackwater security contractors during the war in iraq pelton 's regularly published survival and political guide `` the world 's most dangerous places '' , provides practical and survival information for people who work and travel in high risk zones , and is a bestseller .
+with the book 's bestseller status pelton has become an expert on work and travel in `` high-risk '' environments .
+he was also host of the discovery travel channel series robert young pelton 's the world 's most dangerous places from 1998 to 2003 .
+now residing in los angeles , pelton currently writes books , produces documentaries on conflict-related subjects and operates cultural engagement journeys into the world 's most dangerous and forbidden places .
+pelton is also a frequent television and magazine interview subject , often appearing as a raconteur of his various adventures and safety tips on shows as diverse as oprah , conan o'brien , cnn , fox , bbc , abc , cbs , nbc and others .
+pelton is a regular commentator for shepard smith 's on fox news , providing insight and background on breaking news .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Robert Young Pelton born?  Answer: Robert Young Pelton was born in 1955.  2. When did Robert Young Pelton host the Discovery Travel Channel series ""The World's Most Dangerous Places""?  Answer: Robert Young Pelton hosted the series from 1998 to 2003.  3. When did Robert Young Pelton survive an assassination attempt in Uganda?  Answer: Robert Young Pelton survived the assassination attempt in Uganda at an unspecified year."
+19,138,138,Tony Johnston,Tony Johnston,television presenter and actor,australian,1970,1970,11,"tony johnston is an australian television presenter , producer and radio broadcaster .
+tony began his career in 1986 , as a presenter on the music video show ` saturday jukebox ' on the seven network in australia .
+in 1987 , he started hosting the children 's program ` ok ' with the nine network .
+in 1992 , tony commenced as a reporter with the ` logie ' award winning program ` wonder world ' .
+in 1996 , johnston became the host of the quiz program `` time masters '' on the seven network .
+in the same year , he started presenting on the top rated ` great outdoors ' travel program .
+in 2002 , johnston became the state wide weather presenter on `` the great southeast '' in queensland and hosted a talkback radio show on ` news talk 1116 4bc ' .
+from 2003 , through to the current time , tony has been the director of a new media production company ` tjtv pty ltd ' and continues his radio career with the australian broadcasting corporation , as a talkback host with 612 abc brisbane and abc coast fm .
+in 2008 johnston joined the world radio switzerland , wrs is switzerland 's english speaking radio station .
+","Consider the following biography.
+""tony johnston is an australian television presenter , producer and radio broadcaster .
+tony began his career in 1986 , as a presenter on the music video show ` saturday jukebox ' on the seven network in australia .
+in 1987 , he started hosting the children 's program ` ok ' with the nine network .
+in 1992 , tony commenced as a reporter with the ` logie ' award winning program ` wonder world ' .
+in 1996 , johnston became the host of the quiz program `` time masters '' on the seven network .
+in the same year , he started presenting on the top rated ` great outdoors ' travel program .
+in 2002 , johnston became the state wide weather presenter on `` the great southeast '' in queensland and hosted a talkback radio show on ` news talk 1116 4bc ' .
+from 2003 , through to the current time , tony has been the director of a new media production company ` tjtv pty ltd ' and continues his radio career with the australian broadcasting corporation , as a talkback host with 612 abc brisbane and abc coast fm .
+in 2008 johnston joined the world radio switzerland , wrs is switzerland 's english speaking radio station .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did Tony Johnston start hosting the children's program ""OK""? Answer: 1987  2. When did Tony Johnston become the host of the quiz program ""Time Masters""? Answer: 1996  3. When did Tony Johnston join World Radio Switzerland? Answer: 2008"
+20,56,56,Ned Manning,Ned Manning,"actor , writer , teacher",australian,1950,1950,37,"ned manning is an australian playwright , actor and teacher , whose film credits include the lead role in `` dead end drive-in '' -lrb- 1986 -rrb- and an appearance in the teen film `` looking for alibrandi '' -lrb- 2000 -rrb- .
+manning 's television credits include `` bodyline '' , `` the shiralee '' , `` prisoner '' '' , and `` brides of christ '' .
+his first major play was `` us or them '' , and its production by griffin theatre company marked the company 's transition to being staffed by professional actors .
+other plays have included `` milo '' , `` kenny 's coming home '' and `` close to the bone '' ; in 2007 manning played the lead in his own play `` last one standing '' at the old fitzroy theatre in sydney .
+the plays have received mixed reviews , with `` last one standing '' in particular being criticised for its formulaic and predictable narrative .
+manning has written for the bell shakespeare company 's `` actors at work '' program , a travelling community and schools theatrical education initiative .
+at one time the husband of indigenous australian artist bronwyn bancroft , manning has since remarried , to theatre director marion potts .
+his children include new south wales young australian of the year for 2010 , jack manning bancroft .
+","Consider the following biography.
+""ned manning is an australian playwright , actor and teacher , whose film credits include the lead role in `` dead end drive-in '' -lrb- 1986 -rrb- and an appearance in the teen film `` looking for alibrandi '' -lrb- 2000 -rrb- .
+manning 's television credits include `` bodyline '' , `` the shiralee '' , `` prisoner '' '' , and `` brides of christ '' .
+his first major play was `` us or them '' , and its production by griffin theatre company marked the company 's transition to being staffed by professional actors .
+other plays have included `` milo '' , `` kenny 's coming home '' and `` close to the bone '' ; in 2007 manning played the lead in his own play `` last one standing '' at the old fitzroy theatre in sydney .
+the plays have received mixed reviews , with `` last one standing '' in particular being criticised for its formulaic and predictable narrative .
+manning has written for the bell shakespeare company 's `` actors at work '' program , a travelling community and schools theatrical education initiative .
+at one time the husband of indigenous australian artist bronwyn bancroft , manning has since remarried , to theatre director marion potts .
+his children include new south wales young australian of the year for 2010 , jack manning bancroft .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was the film ""Dead End Drive-In"" released, in which Ned Manning played the lead role? Answer: When was the film ""Dead End Drive-In"" released, in which Ned Manning played the lead role? == 1986  2. In which year did Ned Manning play the lead in his own play ""Last One Standing"" at the Old Fitzroy Theatre in Sydney? Answer: In which year did Ned Manning play the lead in his own play ""Last One Standing"" at the Old Fitzroy Theatre in Sydney? == 2007  3. What year was Jack Manning Bancroft named the New South Wales Young Australian of the Year? Answer: What year was Jack Manning Bancroft named the New South Wales Young Australian of the Year? == 2010"
+21,119,119,Pete Harman,Pete Harman,entrepreneur,american,1919,1919,5,"leon weston `` pete '' harman -lrb- january 16 , 1919 -- november 19 , 2014 -rrb- was an american businessman best known for having struck a deal with colonel harland sanders to open the first kfc franchise .
+located in salt lake city , utah it opened for business in august 1952 .
+harman was born in 1919 in granger , now a part of west valley city , a suburb of salt lake city , utah to david reese harman -lrb- 1874 -- 1924 -rrb- and grace may hemenway -lrb- 1879 -- 1919 -rrb- .
+harman was the youngest of 14 children in a mormon family .
+harman and his wife , arline , opened their first restaurant , the do drop inn , with two employees in 1941 .
+harman worked with harland sanders to develop and prepare the kfc system for franchising , working to develop training manuals and product guides .
+his other claims to fame are the development of the bucket packaging and the emphasis on the `` finger-lickin ' good '' motto .
+in 1990 the international foodservice manufacturer association recognized harman 's achievements with its gold plate award .
+at the time of the award the harman management corp. of los altos , california , employs over 4,000 people and operates 238 kfc stores in four states .
+credit for his success was given to his enlightened practices towards his staff including stock purchase schemes .
+his original kfc building was demolished in 2004 to make way for a museum and an updated restaurant .
+harman retired and moved to california , living there until his death on november 19 , 2014 , at 95 years old .
+","Consider the following biography.
+""leon weston `` pete '' harman -lrb- january 16 , 1919 -- november 19 , 2014 -rrb- was an american businessman best known for having struck a deal with colonel harland sanders to open the first kfc franchise .
+located in salt lake city , utah it opened for business in august 1952 .
+harman was born in 1919 in granger , now a part of west valley city , a suburb of salt lake city , utah to david reese harman -lrb- 1874 -- 1924 -rrb- and grace may hemenway -lrb- 1879 -- 1919 -rrb- .
+harman was the youngest of 14 children in a mormon family .
+harman and his wife , arline , opened their first restaurant , the do drop inn , with two employees in 1941 .
+harman worked with harland sanders to develop and prepare the kfc system for franchising , working to develop training manuals and product guides .
+his other claims to fame are the development of the bucket packaging and the emphasis on the `` finger-lickin ' good '' motto .
+in 1990 the international foodservice manufacturer association recognized harman 's achievements with its gold plate award .
+at the time of the award the harman management corp. of los altos , california , employs over 4,000 people and operates 238 kfc stores in four states .
+credit for his success was given to his enlightened practices towards his staff including stock purchase schemes .
+his original kfc building was demolished in 2004 to make way for a museum and an updated restaurant .
+harman retired and moved to california , living there until his death on november 19 , 2014 , at 95 years old .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was the first KFC franchise opened in Salt Lake City, Utah?  Answer: 1952  2. When was Leon Weston ""Pete"" Harman born?  Answer: 1919  3. When did Leon Weston ""Pete"" Harman receive the Gold Plate Award from the International Foodservice Manufacturer Association?  Answer: 1990"
+22,64,64,Honda Toshinaga 本多利長,Honda Toshinaga,daimyō,japanese,1635,1635,0,"toshinaga was the 6th son of honda tadatoshi , daimyō of okazaki domain .
+his mother was a daughter of inoue masanari , daimyō of yokosuka domain .
+toshinaga succeeded to clan leadership upon his father 's death in 1645 ; however , he received only 50,000 of the 60,000 `` koku '' that had comprised okazaki domain under tadatoshi 's rule ; the remaining 10,000 `` koku '' was divided between his brothers honda sukehisa and honda toshirō .
+toshinaga was transferred to yokosuka domain during the same year .
+he held the courtesy title of junior 5th court rank , lower grade -lrb- `` ju go i no ge '' 従五位下 -rrb- , and `` echizen no kami '' and was married to a daughter of matsudaira masatsuna , daimyō of tamanawa domain in sagami province .
+the tokugawa shogunate confiscated yokosuka domain on february 23 , 1682 , charging toshinaga with gross misconduct and repressive governance .
+he was later pardoned , and given 10,000 `` koku '' of land in dewa province in northern japan , which became known as murayama domain .
+toshinaga died in 1692 , at age 58 , and was succeeded by his adopted son honda sukeyoshi .
+toshinaga 's grave is at the temple of kyōzen-ji , in roppongi , tokyo .
+","Consider the following biography.
+""toshinaga was the 6th son of honda tadatoshi , daimyō of okazaki domain .
+his mother was a daughter of inoue masanari , daimyō of yokosuka domain .
+toshinaga succeeded to clan leadership upon his father 's death in 1645 ; however , he received only 50,000 of the 60,000 `` koku '' that had comprised okazaki domain under tadatoshi 's rule ; the remaining 10,000 `` koku '' was divided between his brothers honda sukehisa and honda toshirō .
+toshinaga was transferred to yokosuka domain during the same year .
+he held the courtesy title of junior 5th court rank , lower grade -lrb- `` ju go i no ge '' 従五位下 -rrb- , and `` echizen no kami '' and was married to a daughter of matsudaira masatsuna , daimyō of tamanawa domain in sagami province .
+the tokugawa shogunate confiscated yokosuka domain on february 23 , 1682 , charging toshinaga with gross misconduct and repressive governance .
+he was later pardoned , and given 10,000 `` koku '' of land in dewa province in northern japan , which became known as murayama domain .
+toshinaga died in 1692 , at age 58 , and was succeeded by his adopted son honda sukeyoshi .
+toshinaga 's grave is at the temple of kyōzen-ji , in roppongi , tokyo .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When did Toshinaga succeed to clan leadership upon his father's death? Answer: 1645  2. When was Toshinaga transferred to Yokosuka domain? Answer: 1645  3. When did Toshinaga die? Answer: 1692
+23,59,59,Stanley Waterloo,Stanley Waterloo,"newspaperman , writer",u.s.a.,1846,1846,8,"stanley waterloo -lrb- 1846-1913 -rrb- was an american newspaperman , editor , newspaper owner , and author of both non-fiction and fiction .
+he was born in st. clair county , michigan in 1846 and died in chicago , illinois in 1913 -lrb- of pneumonia -rrb- .
+he married anna charlotte kitton on february 11 , 1874 .
+waterloo attended the university of michigan .
+one source says he graduated in 1869 , but another says he did not .
+waterloo secured an appointment to west point , but was not able to attend , because he suffered an injury .
+one account was that he had been kicked by a horse he was trying to break .
+having grown up in the countryside , waterloo was fond of the outdoors and was highly regarded for his descriptions of nature .
+he was , among other things , a game warden for illinois .
+by 1870 waterloo was in chicago , where he went to study law but dropped out and instead began his career in journalism .
+in 1871 , after the great chicago fire , he moved to st. louis , missouri , and acquired a proprietorship interest in the `` evening journal '' .
+for the next dozen years he worked in missouri at , variously , the `` missouri republican '' , the `` st. louis chronicle '' , and the `` st. louis globe-democrat '' .
+while waterloo was editor of the `` chronicle '' , an editorial appeared which was critical of a local judge .
+the judge threatened waterloo and there were concerns that the threat included physical violence .
+waterloo refused to back down .
+it turned out that the editorial was actually written by another judge .
+he then moved to st. paul , minnesota , where he began a newspaper named `` the day '' .
+he then moved back to chicago and worked in an editorial capacity at the `` chicago tribune '' .
+this occupied the next half dozen years , and during this time he was twice president of the chicago press club .
+he then turned exclusively to literature .
+his first novel , `` a man and a woman '' , sold more than 100,000 copies in six months .
+his work was well received in england , and he was one of the first american authors to sell well there .
+his most famous work , `` the story of ab : a tale of the time of the caveman '' , was followed by a story by jack london , `` before adam '' , which was so similar to waterloo 's novel that waterloo accused london of plagiarism .
+london denied this , explaining that his story was in the nature of a commentary on waterloo 's work .
+","Consider the following biography.
+""stanley waterloo -lrb- 1846-1913 -rrb- was an american newspaperman , editor , newspaper owner , and author of both non-fiction and fiction .
+he was born in st. clair county , michigan in 1846 and died in chicago , illinois in 1913 -lrb- of pneumonia -rrb- .
+he married anna charlotte kitton on february 11 , 1874 .
+waterloo attended the university of michigan .
+one source says he graduated in 1869 , but another says he did not .
+waterloo secured an appointment to west point , but was not able to attend , because he suffered an injury .
+one account was that he had been kicked by a horse he was trying to break .
+having grown up in the countryside , waterloo was fond of the outdoors and was highly regarded for his descriptions of nature .
+he was , among other things , a game warden for illinois .
+by 1870 waterloo was in chicago , where he went to study law but dropped out and instead began his career in journalism .
+in 1871 , after the great chicago fire , he moved to st. louis , missouri , and acquired a proprietorship interest in the `` evening journal '' .
+for the next dozen years he worked in missouri at , variously , the `` missouri republican '' , the `` st. louis chronicle '' , and the `` st. louis globe-democrat '' .
+while waterloo was editor of the `` chronicle '' , an editorial appeared which was critical of a local judge .
+the judge threatened waterloo and there were concerns that the threat included physical violence .
+waterloo refused to back down .
+it turned out that the editorial was actually written by another judge .
+he then moved to st. paul , minnesota , where he began a newspaper named `` the day '' .
+he then moved back to chicago and worked in an editorial capacity at the `` chicago tribune '' .
+this occupied the next half dozen years , and during this time he was twice president of the chicago press club .
+he then turned exclusively to literature .
+his first novel , `` a man and a woman '' , sold more than 100,000 copies in six months .
+his work was well received in england , and he was one of the first american authors to sell well there .
+his most famous work , `` the story of ab : a tale of the time of the caveman '' , was followed by a story by jack london , `` before adam '' , which was so similar to waterloo 's novel that waterloo accused london of plagiarism .
+london denied this , explaining that his story was in the nature of a commentary on waterloo 's work .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was Stanley Waterloo born?  Answer: 1846  2. When did Stanley Waterloo die?  Answer: 1913  3. When did Stanley Waterloo marry Anna Charlotte Kitton?  Answer: 1874
+24,181,181,Teofil Lenartowicz,Teofil Lenartowicz,"poet , publicist , ethnographer",polish,1822,1822,12,"teofil aleksander lenartowicz -lrb- 27 february 1822 in warsaw -- 3 february 1893 in florence -rrb- was a polish ethnographer , sculptor , poet and romantic conspirator .
+linked to bohemians among warsaw intellectuals , lenartowicz was associated with oskar kolberg and roman zmorski in the anti-tsarist independence movement , and participated in the greater poland uprising of 1848 during his stay in kraków .
+while in exile he taught slavic literature at the university of bologna , composed patriotic and religious poems , as well as lyrical and historical epics based on the folklore of his beloved region of mazowsze .
+he did portrait-sculptures , and designed tombstones .
+teofil aleksander came from the master mason family of lenartowicz `` pobóg coat of arms '' .
+he was the son of karol and maria `` née '' kwasieborska `` cholewa '' coat of arms .
+while in florence , he married sculptor zofia szymanowska `` młodzian '' coa , with whom he had a son john -lrb- jan -rrb- .
+his remains were brought from italy to poland and interred in the crypt of the distinguished in the st. stanislaus church at skałka in kraków .
+","Consider the following biography.
+""teofil aleksander lenartowicz -lrb- 27 february 1822 in warsaw -- 3 february 1893 in florence -rrb- was a polish ethnographer , sculptor , poet and romantic conspirator .
+linked to bohemians among warsaw intellectuals , lenartowicz was associated with oskar kolberg and roman zmorski in the anti-tsarist independence movement , and participated in the greater poland uprising of 1848 during his stay in kraków .
+while in exile he taught slavic literature at the university of bologna , composed patriotic and religious poems , as well as lyrical and historical epics based on the folklore of his beloved region of mazowsze .
+he did portrait-sculptures , and designed tombstones .
+teofil aleksander came from the master mason family of lenartowicz `` pobóg coat of arms '' .
+he was the son of karol and maria `` née '' kwasieborska `` cholewa '' coat of arms .
+while in florence , he married sculptor zofia szymanowska `` młodzian '' coa , with whom he had a son john -lrb- jan -rrb- .
+his remains were brought from italy to poland and interred in the crypt of the distinguished in the st. stanislaus church at skałka in kraków .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was Teofil Aleksander Lenartowicz born?  Answer: 1822  2. When did Teofil Aleksander Lenartowicz pass away?  Answer: 1893  3. In which year did Teofil Aleksander Lenartowicz participate in the Greater Poland Uprising?  Answer: 1848
+25,154,154,Fred Whishaw,Fred Whishaw,"writer , historian , musician",british,1854,1854,10,"frederick james whishaw -lrb- 14 march 1854 -- 8 july 1934 -rrb- was a russian-born british novelist , historian , poet and musician .
+a popular author of children 's fiction at the turn of the 20th century , he published over forty volumes of his work between 1884 and 1914 .
+he was a prolific historical novelist , many of his books being set in czarist russia , and his `` schoolboy '' and adventure serials appeared in many boys ' magazines of the era .
+several of these were published as full length novels , such as `` gubbins minor and some other fellows '' -lrb- 1897 -rrb- , `` the boys of brierley grange '' -lrb- 1906 -rrb- and `` the competitors : a tale of upton house school '' -lrb- 1906 -rrb- .
+other stories , such as `` the white witch of the matabele '' -lrb- 1897 -rrb- or `` the three scouts : a story of the boer war '' -lrb- 1900 -rrb- , depicted colonial africa .
+whishaw was also one of the first translators of fyodor dostoevsky , the first in the english language .
+he had several of the russian author 's novels published between 1886 and 1888 .
+","Consider the following biography.
+""frederick james whishaw -lrb- 14 march 1854 -- 8 july 1934 -rrb- was a russian-born british novelist , historian , poet and musician .
+a popular author of children 's fiction at the turn of the 20th century , he published over forty volumes of his work between 1884 and 1914 .
+he was a prolific historical novelist , many of his books being set in czarist russia , and his `` schoolboy '' and adventure serials appeared in many boys ' magazines of the era .
+several of these were published as full length novels , such as `` gubbins minor and some other fellows '' -lrb- 1897 -rrb- , `` the boys of brierley grange '' -lrb- 1906 -rrb- and `` the competitors : a tale of upton house school '' -lrb- 1906 -rrb- .
+other stories , such as `` the white witch of the matabele '' -lrb- 1897 -rrb- or `` the three scouts : a story of the boer war '' -lrb- 1900 -rrb- , depicted colonial africa .
+whishaw was also one of the first translators of fyodor dostoevsky , the first in the english language .
+he had several of the russian author 's novels published between 1886 and 1888 .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When was Frederick James Whishaw born? == 1854 2. In what year did Frederick James Whishaw publish ""Gubbins Minor and Some Other Fellows""? == 1897 3. Between which years did Frederick James Whishaw have several of Fyodor Dostoevsky's novels published? == 1886 and 1888"
+26,35,35,Hans Lange,Hans Lange,"musician , violinist , conductor","prussian , since 1916 german , usa",1884,1884,6,"hans lange -lrb- february 17 , 1884 in istanbul -- august 13 , 1960 in albuquerque , new mexico -rrb- was a german-american conductor and musician .
+he was a son of paul lange , who had been a lecturer for music at the american college for girls and german high school istanbul in the 1890s , and later was appointed the sultan 's director of music .
+hans lange himself was an alumnus of german high school istanbul .
+lange was educated in prague and other european cities .
+after assignments in several german cities , for example in bielefeld , he entered the united states in 1925 with a german orchestra to give concerts .
+the orchestra was dissolved during the tour , and lange had to restart his career .
+lange joined the new york philharmonic orchestra as a violinist in 1927 , but began soon to conduct as well .
+he became assistant of arturo toscanini , and rehearsed almost all his performances .
+at that time , he also worked on his own as a conductor : besides numerous assignments as conductor of the new york philharmonic in concerts at the carnegie hall until 1936 , he e.g. recorded one of his wagner concerts with the famous soprano kirsten flagstad for hmv records .
+in 1936 -- 1943 he worked as `` associate conductor '' and later became `` conductor '' -lrb- 1943 -- 46 -rrb- of the chicago symphony orchestra .
+as he had not taken up us citizenship during the war , his contract with cso was not extended in 1946 .
+on may 12 , 1940 , he recorded with the cso and the polish american piano virtuoso jozef hofmann beethovens piano concert no. 5 -lrb- `` emperor '' -rrb- .
+the recording -lrb- 35 minutes -rrb- has been published in cso 's own historic series and in jozef hofmann anthologies .
+in the same year lange conducted the cso during its legendary concert with u.s. piano legend liberace at the pabst theater in milwaukee .
+in 1946-1949 lange worked in toledo , ohio , with the local friends of music orchestra -lrb- later toledo symphony orchestra -rrb- .
+on april 13 , 1947 , he was invited again by his former boss toscanini to new york to perform as guest conductor at the nbc symphony orchestra .
+in 1950 , lange started to work with the albuquerque civic symphony , less than two years after his predecessor kurt frederick had managed to bring the world premiere of schoenbergs `` a survivor from warsaw '' to albuquerque in november 1948 .
+lange transformed the acs from an amateur ensemble into what is today known as new mexico symphony orchestra -lrb- nmso -rrb- and one of the leading professional orchestras in the united states .
+he was a national patron of delta omicron , an international professional music fraternity .
+during his tenure in chicago , lange was one of the teachers and mentors of composer leon stein .
+","Consider the following biography.
+""hans lange -lrb- february 17 , 1884 in istanbul -- august 13 , 1960 in albuquerque , new mexico -rrb- was a german-american conductor and musician .
+he was a son of paul lange , who had been a lecturer for music at the american college for girls and german high school istanbul in the 1890s , and later was appointed the sultan 's director of music .
+hans lange himself was an alumnus of german high school istanbul .
+lange was educated in prague and other european cities .
+after assignments in several german cities , for example in bielefeld , he entered the united states in 1925 with a german orchestra to give concerts .
+the orchestra was dissolved during the tour , and lange had to restart his career .
+lange joined the new york philharmonic orchestra as a violinist in 1927 , but began soon to conduct as well .
+he became assistant of arturo toscanini , and rehearsed almost all his performances .
+at that time , he also worked on his own as a conductor : besides numerous assignments as conductor of the new york philharmonic in concerts at the carnegie hall until 1936 , he e.g. recorded one of his wagner concerts with the famous soprano kirsten flagstad for hmv records .
+in 1936 -- 1943 he worked as `` associate conductor '' and later became `` conductor '' -lrb- 1943 -- 46 -rrb- of the chicago symphony orchestra .
+as he had not taken up us citizenship during the war , his contract with cso was not extended in 1946 .
+on may 12 , 1940 , he recorded with the cso and the polish american piano virtuoso jozef hofmann beethovens piano concert no. 5 -lrb- `` emperor '' -rrb- .
+the recording -lrb- 35 minutes -rrb- has been published in cso 's own historic series and in jozef hofmann anthologies .
+in the same year lange conducted the cso during its legendary concert with u.s. piano legend liberace at the pabst theater in milwaukee .
+in 1946-1949 lange worked in toledo , ohio , with the local friends of music orchestra -lrb- later toledo symphony orchestra -rrb- .
+on april 13 , 1947 , he was invited again by his former boss toscanini to new york to perform as guest conductor at the nbc symphony orchestra .
+in 1950 , lange started to work with the albuquerque civic symphony , less than two years after his predecessor kurt frederick had managed to bring the world premiere of schoenbergs `` a survivor from warsaw '' to albuquerque in november 1948 .
+lange transformed the acs from an amateur ensemble into what is today known as new mexico symphony orchestra -lrb- nmso -rrb- and one of the leading professional orchestras in the united states .
+he was a national patron of delta omicron , an international professional music fraternity .
+during his tenure in chicago , lange was one of the teachers and mentors of composer leon stein .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When did Hans Lange enter the United States with a German orchestra to give concerts?  Answer: 1925  2. When did Hans Lange start working with the Albuquerque Civic Symphony?  Answer: 1950  3. When did Hans Lange's contract with the Chicago Symphony Orchestra end?  Answer: 1946
+27,53,53,Virginia Heffernan,Virginia Heffernan,"author , columnist",american,1969,1969,41,"virginia heffernan -lrb- born august 8 , 1969 -rrb- is an american journalist .
+from 2003 to 2011 , she was a staff writer for `` the new york times '' -- first as a tv critic , then as a magazine columnist , and then as an opinion writer .
+she has also worked as a senior editor for `` harper 's '' , a founding editor of `` talk '' , a tv critic for `` slate '' , a fact checker for `` the new yorker '' and a national correspondent for `` yahoo news '' .
+heffernan writes as a cultural critic , with particular attention to digital culture .
+she is known as a playful , stylish and erudite writer ; in 2014 ben yagoda in the chronicle of higher education named her among his top candidates for `` best living writer of english prose . ''
+since 2014 , heffernan has been a visiting scholar in media , communications and culture at nyu and a regular contributor to backchannel and the message , both writing collectives housed on the medium website .
+she currently writes a monthly column on language for the new york times magazine called `` first words '' .
+","Consider the following biography.
+""virginia heffernan -lrb- born august 8 , 1969 -rrb- is an american journalist .
+from 2003 to 2011 , she was a staff writer for `` the new york times '' -- first as a tv critic , then as a magazine columnist , and then as an opinion writer .
+she has also worked as a senior editor for `` harper 's '' , a founding editor of `` talk '' , a tv critic for `` slate '' , a fact checker for `` the new yorker '' and a national correspondent for `` yahoo news '' .
+heffernan writes as a cultural critic , with particular attention to digital culture .
+she is known as a playful , stylish and erudite writer ; in 2014 ben yagoda in the chronicle of higher education named her among his top candidates for `` best living writer of english prose . ''
+since 2014 , heffernan has been a visiting scholar in media , communications and culture at nyu and a regular contributor to backchannel and the message , both writing collectives housed on the medium website .
+she currently writes a monthly column on language for the new york times magazine called `` first words '' .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax","1. When did Virginia Heffernan start working as a staff writer for ""The New York Times""? Answer: 2003  2. When did Virginia Heffernan become a visiting scholar at NYU? Answer: 2014  3. When did Ben Yagoda name Virginia Heffernan as one of his top candidates for ""best living writer of English prose""? Answer: 2014"
+28,151,151,Robert A. Futterman,Robert A. Futterman,"real estate investor , developer , author",american,1928,1928,24,"robert allen futterman -lrb- 1928 -- 1961 -rrb- was an american real estate investor , developer , author , and founder of the futterman corporation -- a publicly traded new york-based real-estate holding and development company , which he built into a $ 100 million nationwide enterprise prior to his sudden death in november 1961 at age 33 .
+from headquarter offices located in the world diamond building -lrb- then `` empire trust company building '' -rrb- at 580 fifth avenue , futterman operated and managed 43 properties in 23 cities , refining a real estate concept he called `` double diversification '' -- balancing a real estate portfolio across both geographies and industries .
+futterman was a widely cited expert on urban renewal , having authored `` the future of our cities , '' published in august 1961 by doubleday & co -- with an introduction by architect victor gruen .
+the book gives a global survey metropolitan development and redevelopment and an analysis of 17 specific u.s. cities , with a `` dramatic documentation of the economic dependence of major urban centers on defense contracts and military installations . ''
+for the breadth of work within his brief professional career , the akron beacon journal in june 2008 called futterman a real estate `` boy genius . ''
+","Consider the following biography.
+""robert allen futterman -lrb- 1928 -- 1961 -rrb- was an american real estate investor , developer , author , and founder of the futterman corporation -- a publicly traded new york-based real-estate holding and development company , which he built into a $ 100 million nationwide enterprise prior to his sudden death in november 1961 at age 33 .
+from headquarter offices located in the world diamond building -lrb- then `` empire trust company building '' -rrb- at 580 fifth avenue , futterman operated and managed 43 properties in 23 cities , refining a real estate concept he called `` double diversification '' -- balancing a real estate portfolio across both geographies and industries .
+futterman was a widely cited expert on urban renewal , having authored `` the future of our cities , '' published in august 1961 by doubleday & co -- with an introduction by architect victor gruen .
+the book gives a global survey metropolitan development and redevelopment and an analysis of 17 specific u.s. cities , with a `` dramatic documentation of the economic dependence of major urban centers on defense contracts and military installations . ''
+for the breadth of work within his brief professional career , the akron beacon journal in june 2008 called futterman a real estate `` boy genius . ''
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was Robert Allen Futterman born? == 1928 2. When did Robert Allen Futterman establish the Futterman Corporation? == 1961 3. In what year did Robert Allen Futterman pass away? == 1961
+29,114,114,William De Silva,William de Silva,"cabinet minister , ceylon high commissioner",sri lanka sri lankan,1908,1908,7,"peduru hewage `` william '' de silva -lrb- 8 december 1908 -- 30 july 1988 -rrb- was a 20th-century ceylonese politician with marxist/trotskyist leanings .
+p. h. william de silva was born at kahatapitiya in batapola , ambalangoda , ceylon , to a wealthy land-owning family .
+he received his elementary education at batapola mixed school and secondary education at st john 's college , panadura , richmond college , galle , and ananda college , colombo .
+he studied for one year at the university college colombo -lrb- now the university of colombo -rrb- and then traveled to england for further studies at university college , oxford .
+while in england , william de silva joined the india league and a marxist study group with other ceylonese students in london .
+he then returned to ceylon and joined the lanka sama samaja party -lrb- lssp -rrb- .
+during world war ii , he was an anti-war movement leader and was imprisoned in bogambara prison and badulla prison in sri lanka -lrb- 1943 -- 45 -rrb- .
+he became a ceylonese member of parliament in 1947 and 1953 .
+he was leader of the all-ceylon estate workers union and vice president of the all-ceylon congress of samasamaja youth leagues .
+he separated from the lssp in october 1953 and joined the viplavakari lanka sama samaja party -lrb- vllsp -rrb- .
+he was the founding leader of mahajana eksath peramuna -lrb- mep -rrb- .
+he was cabinet minister of industries and fisheries in s. w. r. d. bandaranaike 's slfp-mep coalition government -lrb- 1956 -- 59 -rrb- .
+he became a member of parliament in 1960 and was vice president of the sri lanka freedom party -lrb- slfp -rrb- .
+in 1970 , he became the ceylon high commissioner to canada .
+de silva died aged 80 .
+","Consider the following biography.
+""peduru hewage `` william '' de silva -lrb- 8 december 1908 -- 30 july 1988 -rrb- was a 20th-century ceylonese politician with marxist/trotskyist leanings .
+p. h. william de silva was born at kahatapitiya in batapola , ambalangoda , ceylon , to a wealthy land-owning family .
+he received his elementary education at batapola mixed school and secondary education at st john 's college , panadura , richmond college , galle , and ananda college , colombo .
+he studied for one year at the university college colombo -lrb- now the university of colombo -rrb- and then traveled to england for further studies at university college , oxford .
+while in england , william de silva joined the india league and a marxist study group with other ceylonese students in london .
+he then returned to ceylon and joined the lanka sama samaja party -lrb- lssp -rrb- .
+during world war ii , he was an anti-war movement leader and was imprisoned in bogambara prison and badulla prison in sri lanka -lrb- 1943 -- 45 -rrb- .
+he became a ceylonese member of parliament in 1947 and 1953 .
+he was leader of the all-ceylon estate workers union and vice president of the all-ceylon congress of samasamaja youth leagues .
+he separated from the lssp in october 1953 and joined the viplavakari lanka sama samaja party -lrb- vllsp -rrb- .
+he was the founding leader of mahajana eksath peramuna -lrb- mep -rrb- .
+he was cabinet minister of industries and fisheries in s. w. r. d. bandaranaike 's slfp-mep coalition government -lrb- 1956 -- 59 -rrb- .
+he became a member of parliament in 1960 and was vice president of the sri lanka freedom party -lrb- slfp -rrb- .
+in 1970 , he became the ceylon high commissioner to canada .
+de silva died aged 80 .
+""
+ Now generate 3 questions based on the above text. The answers to the question must be just a year. Your response must be in the following format. 
+ 1. Question == Answer 
+ 2. Question == Answer 
+ 3. Question == Answer
+ You must striclty follow the above constraint and syntax",1. When was P. H. William de Silva imprisoned in Bogambara prison and Badulla prison? Answer: 1943-45  2. When did P. H. William de Silva become a member of parliament for the first time? Answer: 1947  3. When did P. H. William de Silva become the Ceylon High Commissioner to Canada? Answer: 1970
