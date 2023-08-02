@@ -321,13 +321,13 @@ def generate_intro_prompt(row):
     return prompt
 
 def generate_example1(row):
-    example = "{} a {} {} was born in {}.".format(row['name'], row['nationality'], row["occupation"], row['wikipedia_birth_year'])
-    return example.replace('-Rrb-', '(').replace('-Lrb-', ')')
+    example = "{}, a {} {}, was born in {}.".format(row['name'], row['nationality'], row["occupation"], row['wikipedia_birth_year'])
+    return example.replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')')
 
 def generate_examples(sample):
     example = '\n'.join(sample.head(3)['example'].to_list())
     example += '\n'
     row = sample.iloc[3]
-    example += '{} a {} {} '.format(row['name'].replace('-Rrb-', '(').replace('-Lrb-', ')'), row['nationality'], row["occupation"])
+    example += '{}, a {} {}, was ______'.format(row['name'].replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')'), row['nationality'], row["occupation"])
     return example
             
