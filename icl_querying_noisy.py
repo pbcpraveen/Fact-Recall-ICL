@@ -81,9 +81,10 @@ response_year = df.apply(lambda x: extract_year(x['GPT 4 Response Prompt1']), ax
 df['response_year'] = response_year
 filtered = df[[df['response_year'].iloc[:].tolist()[i] != None for i in  range(1000)]]
 correctly_answered =  filtered[filtered.apply(check_year, axis=1)]
-examples = correctly_answered.apply(generate_example1, axis = 1)
+correctly_answered['wikipedia_birth_year_noisy'] = correctly_answered.apply(get_noisy_year, axis=1)
+examples = correctly_answered.apply(generate_example1_noisy, axis = 1)
 correctly_answered['example'] = examples
-correctly_answered['example_indirect'] = correctly_answered.apply(generate_example_statement_indirect, axis = 1)
+correctly_answered['example_indirect'] = correctly_answered.apply(generate_example_statement_indirect_noisy, axis = 1)
 
 example_count = COUNT
 icl_prompt_indirect = []
@@ -91,6 +92,7 @@ icl_prompt = []
 ground_truth = []
 citations_query = []
 mean_citation_example = []
+noisy_year = []
 i = 0
 visited = set()
 while i < example_count:
@@ -102,8 +104,10 @@ while i < example_count:
     icl_prompt_indirect.append(generate_icl_query_indirect(sample))
     icl_prompt.append(generate_icl_query(sample))
     ground_truth.append(sample.iloc[3]['wikipedia_birth_year'])
+    noisy_year.append(sample.iloc[3]['wikipedia_birth_year_noisy'])
     citations_query.append(sample.iloc[3]['citation'])
     mean_citation_example.append(sum([sample.iloc[i]['citation'] for i in range(3)])/3)
+    
     i+=1
 prompts = icl_prompt
 prompts_indirect = icl_prompt_indirect
@@ -114,6 +118,7 @@ df['prompt_indirect'] = icl_prompt_indirect
 df['ground_truth'] = ground_truth
 df['citations_query'] = citations_query
 df['mean_citation_example'] = mean_citation_example
+df['ground_truth_noisy'] = noisy_year
 
 partitions = []
 partitions_indirect = []
@@ -158,5 +163,5 @@ df['GPT 4 Response'] = responses
                       
 df['GPT 4 Response Indirect'] = responses_indirect                  
 
-df.to_csv("result/sample1_icl_indirect_prompt_response.csv")
+df.to_csv("result/sample1_icl_indirect_prompt_response_noisy_72.csv")
 

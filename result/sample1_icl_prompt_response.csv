@@ -1,0 +1,401 @@
+,prompt,ground_truth,citations_query,mean_citation_example,GPT 4 Response
+0,"Bhagat Singh Thind, a indian , american writer , lecturer, was born in 1892.
+Hans Kristian Rausing, a swedish philanthropist, was born in 1963.
+Ferdinand Édouard Buisson, a french politician, was born in 1841.
+Michael Hastings, a united states journalist, was ______",1980,107,10.666666666666666,born in 1980.
+1,"Irving Kahn, a american businessman , investor, was born in 1905.
+Luis Alberto Lacalle, a uruguayan politician , lawyer, was born in 1941.
+Ana Marie Cox, a american correspondent, was born in 1972.
+Ben Hur Lampman, a american journalist , essayist , poet, was ______",1886,31,18.0,born in 1886.
+2,"William Bogert, a american actor, was born in 1936.
+Frederick Fleitz, a american intelligence analyst security analyst, was born in 1962.
+Michael Legat, a british publisher , novelist, was born in 1923.
+Boudewijn Bouckaert, a belgian politician , professor, was ______",1947,4,14.333333333333334,born in 1947.
+3,"Charles Gordon, a canadian novelist , humorist , journalist, was born in 1940.
+Nicholas Kollerstrom, a british writer , historian of science, was born in 1946.
+Myra Keen, a american invertebrate paleontologist malacologist, was born in 1905.
+Ron Luciano, a american umpire , author, was ______",1937,39,35.0,born in 1937.
+4,"Anton Nikolaevich Shkaplerov, a russian colonel , russian air force, was born in 1972.
+Charles Gordon Mosley, a british editor , author , broadcaster , publisher, was born in 1948.
+Ronald Mcnair, a american physicist, was born in 1950.
+Phalgunanda Lingden, a nepalese was a great teacher, was ______",1885,6,20.0,born in an unknown year.
+5,"Ragnvald Andreas Indrebø, a norwegian priest, was born in 1891.
+Sir Philip Colfox, a british politician , farmer , former soldier, was born in 1888.
+Carmella Decesare, a american model , professional wrestler, was born in 1982.
+Matthew Carnahan, a american director , writer , producer, was ______",1961,6,7.333333333333333,born in 1961.
+6,"Corrado Guzzanti, a italian actor , director , writer and satirist, was born in 1965.
+Susan Dey, a american model actress, was born in 1952.
+Rajeev Khandelwal, a indian actor , tv presenter , model, was born in 1975.
+Raelee Hill, a australian actress, was ______",1972,7,62.333333333333336,born in 1972.
+7,"Rehman, a indian actor, was born in 1921.
+Lorrie Moore, a american short-story writer , novelist, was born in 1957.
+Vasili Mitrokhin, a russian , british military, was born in 1922.
+Mikael Bodlore-Penlaez, a breton author, was ______",1975,1,11.0,The text does not provide information on when Mikael Bodlore-Penlaez was born.
+8,"Kübra Öztürk, a turkish chess player, was born in 1991.
+Paolo Bonolis, a italian television host, was born in 1961.
+Eamonn Andrews Cbe, a irish television and radio presenter, was born in 1922.
+Andy Weir, a american novelist , programmer, was ______",1972,0,10.0,born in 1972.
+9,"Lance Gooden, a american businessman, was born in 1982.
+Abu Ammaar Yasir Qadhi, a american instructor, was born in 1975.
+Joseph Opala, a united states and sierra leone american educator and academic, was born in 1950.
+Mischaël Modrikamen, a belgian lawyer , politician , publisher, was ______",1966,41,44.0,born in 1966.
+10,"Martha Moody, a american novelist , physician, was born in 1955.
+Lorrie Moore, a american short-story writer , novelist, was born in 1957.
+Owsley Brown Frazier, a american executive , entrepreneur, was born in 1935.
+Stephen Yokich, a american labor leader, was ______",1935,94,18.0,born in 1935.
+11,"Melissa Anelli, a american writer , webmistress, was born in 1979.
+Jeffrey Arthur Koterba, a american editorial cartoonist & musician, was born in 1961.
+Sax Rohmer, a british novelist, was born in 1883.
+Glenn Chadbourne, a american artist , illustrator , writer, was ______",1959,0,18.0,born in 1959.
+12,"Ron Luciano, a american umpire , author, was born in 1937.
+Rovnag Abdullayev, a azerbaijani businessman, was born in 1965.
+Willem Drees , Jr. ., a dutch politician civil servant economist professor, was born in 1922.
+Aung San, a myanmar politician , soldier, was ______",1915,109,14.666666666666666,born in 1915.
+13,"Irwin Altman, a american social psychologist, was born in 1930.
+Sue Ramirez, a filipino actress, was born in 1996.
+Wal Fife, a australian businessman, was born in 1929.
+Tanya Huff, a canadian novelist, was ______",1957,8,8.0,born in 1957.
+14,"George Dalrymple, a scottish explorer , goldfields commissioner , station manager, was born in 1826.
+Zhaleh Olov, a iranian actress, was born in 1927.
+Ferdinand Édouard Buisson, a french politician, was born in 1841.
+Chiho Saito, a japanese manga artist, was ______",1967,1,17.666666666666668,born in 1967.
+15,"Pablo Fanque, a uk circus proprietor ; equestrian performer, was born in 1810.
+William Haines, a american actor , interior designer, was born in 1900.
+Peggy Noonan, a american author , columnist , speechwriter, was born in 1950.
+Aidan Merivale Crawley, a english journalist , television executive and editor , and politician, was ______",1908,36,44.666666666666664,born in 1908.
+16,"Cesare Terranova, a italian antimafia judge, was born in 1921.
+Sax Rohmer, a british novelist, was born in 1883.
+Glenn Chadbourne, a american artist , illustrator , writer, was born in 1959.
+Emily Abi Rached Nasrallah, a lebanese novelist , journalist , short-story writer, was ______",1931,41,18.333333333333332,born in 1931.
+17,"Philip Lee Williams, a american novelist and composer , journalist , poet , film-maker , essayist, was born in 1950.
+Margarete Bagshaw, a american artist, was born in 1964.
+Rodolfo Emilio Giuseppe Pichi-Sermolli, a italian botany, was born in 1912.
+Melissa Anelli, a american writer , webmistress, was ______",1979,26,13.333333333333334,born in 1979.
+18,"John Steptoe, a american author, was born in 1950.
+Anthony Anaxagorou, a british poet & educator, was born in 1983.
+Sir Peter Williams, a british physicist, was born in 1945.
+David Gordon, a american libertarian philosopher and intellectual historian, was ______",1948,34,14.666666666666666,not specified.
+19,"Glenn Chadbourne, a american artist , illustrator , writer, was born in 1959.
+Claus Karl Schilling, a german tropical medicine , medical research, was born in 1871.
+Charles W. Thayer, a united states diplomat , author , target of mccarthyism, was born in 1910.
+Moses Ali, a ugandan military officer , lawyer & politician, was ______",1939,35,21.0,born in 1939.
+20,"İdris Naim Şahin, a turkish politician, was born in 1956.
+Mike Godwin, a american attorney , author, was born in 1956.
+Max Kidruk, a ukrainian writer, was born in 1984.
+Fausto Sarli, a italian fashion designer, was ______",1927,4,24.666666666666668,born in 1927.
+21,"Monica Crowley, a american columnist . , author , television and talk radio personality, was born in 1968.
+Bhanu Chander, a indian film actor producer director screenwriter, was born in 1952.
+Anatoli Alekseievich Ivanishin Анатолий Алексеевич Иванишин, a russian pilot, was born in 1969.
+John Orchard, a british actor, was ______",1928,0,16.666666666666668,born in 1928.
+22,"Samuel Pisar, a poland lawyer ; ambassador, was born in 1929.
+Bernard E. Rollin, a american professor biomedical sciences colorado state university of philosophy professor of animal sciences professor of, was born in 1943.
+Laurie Beth Halse Anderson, a american writer, was born in 1961.
+Max Kidruk, a ukrainian writer, was ______",1984,30,24.0,born in 1984.
+23,"Ely Jacques Kahn, a american architect, was born in 1884.
+Christopher Cazenove, a british actor, was born in 1943.
+Qurratulain Hyder, a indian writer, was born in 1927.
+Matthias Storme, a belgium politician , lawyer , academic , philosopher, was ______",1959,7,16.333333333333332,born in 1959.
+24,"Yasuko Nagazumi, a japanese businesswoman former actress, was born in 1943.
+Syed Saleem Shahzad, a pakistani journalist, was born in 1970.
+Shekhar Gurera, a indian cartoonist , caricaturist , illustrator , designer, was born in 1965.
+Lawrence Paros, a american writer , educator , filmmaker, was ______",1934,12,25.0,born in a specific year that is not provided in the text.
+25,"Wilhelm Normann, a german chemist, was born in 1870.
+Alf Rehn, a finnish professor , author , speaker, was born in 1972.
+Emma Elizabeth Jean Sutcliffe Goldrick, a american novelist, was born in 1923.
+Henning Haslund-Christensen, a danish travel writer , explorer , anthropologist, was ______",1896,3,9.0,born in 1896.
+26,"Tom Selleck, a american actor , film producer, was born in 1945.
+Karl Dallas, a british journalist campaigner , record producer , broadcaster , musician , author , playwright , peace, was born in 1931.
+Rajasulochana, a indian actress, was born in 1935.
+Jim Gary, a american sculptor, was ______",1939,40,38.666666666666664,born in 1939.
+27,"Denis Scheck, a german journalist , literary critic, was born in 1964.
+Steven Sasson, a american electrical engineer inventor, was born in 1950.
+Gathie Falk, a canadian artist, was born in 1928.
+Anthony Julian, a american attorney judge, was ______",1902,2,14.666666666666666,The text does not provide information on when Anthony Julian was born.
+28,"Amber Creek, a american student, was born in 1982.
+Chandravadan Chimanlal Mehta, a indian playwright writer , critic , self-writer , poet , travel, was born in 1901.
+William Dixson, a australian businessman , collector , benefactor, was born in 1870.
+Ján Kollár, a slovak writer , poet , pastor, was ______",1793,7,47.333333333333336,born in 1793.
+29,"Ed Earl Repp, a united states screenwriter , short story writer , novelist, was born in 1901.
+Nguyễn Nhật Ánh, a vietnam writer, was born in 1955.
+Eden Robinson, a haisla/heiltsuk author, was born in 1968.
+Atis Kronvalds, a latvian writer , linguist and pedagogue, was ______",1837,1,5.333333333333333,born in 1837.
+30,"Tim Brabants, a british doctor, was born in 1977.
+Mikael Bodlore-Penlaez, a breton author, was born in 1975.
+Cristina Odone, a italian , british journalist , writer , tv commentator, was born in 1960.
+Ivan Focht, a croat philosopher , mycologist, was ______",1927,5,12.0,born in 1927.
+31,"Josef Hora, a czech poet, was born in 1891.
+Tomás Mac Curtain, a irish lord mayor of cork, was born in 1884.
+Olga Syahputra, a indonesian actor comedian singer television presenter, was born in 1983.
+Sir Anwar Pervez, a uk british pakistanpakistani chairman bestway group, was ______",1935,24,21.0,born in 1935.
+32,"Hiroshi Kashiwagi, a american author playwright poet actor, was born in 1922.
+Tyler Johnston, a canadian film , television actor, was born in 1987.
+Tanya Huff, a canadian novelist, was born in 1957.
+Abu Ammaar Yasir Qadhi, a american instructor, was ______",1975,0,5.333333333333333,born in 1975.
+33,"Lance Gooden, a american businessman, was born in 1982.
+Nita Ambani, a indian chairman international school co-owner of mumbai indians additional director for oberoi of hotels & resorts dhirubhai ambani foundation chairman of dhirubhai ambani, was born in 1963.
+David L. Snell, a american composer, was born in 1897.
+Harshit Saxena, a indian music director , singer , film composer, was ______",1985,10,41.0,born in 1985.
+34,"Nicholas Longworth, a american lawyer , banker , real estate speculator , winemaker, was born in 1783.
+Madhuri Dixit, a indian actress, was born in 1967.
+Donna Hilbert, a american author, was born in 1946.
+Gilbert Harding, a british journalist and radio and television personality, was ______",1907,14,107.0,born in 1907.
+35,"Steven Sasson, a american electrical engineer inventor, was born in 1950.
+David Hawker, a australian farmer and grazier, was born in 1949.
+Tarundeep Rai, a indian archery, was born in 1984.
+Tor Berger Jørgensen, a norwegian priest , provost , bishop, was ______",1945,9,17.0,born in 1950.
+36,"Elco Brinkman, a dutch politician civil servant corporate director, was born in 1948.
+Anjali Joseph, a british , indian writer , journalist , teacher, was born in 1978.
+Anna Silk, a canadian actress, was born in 1974.
+Gotō Shōjirō, a japanese politician , cabinet minister, was ______",1838,1,17.0,born in 1838.
+37,"Kōji Yamamura, a japanese animation, was born in 1964.
+Scott English, a american songwriter record producer, was born in 1937.
+Jenni Williams, a zimbabwean human rights activist, was born in 1962.
+Alan Derek Piggott, a english retired flying instructor and author, was ______",1922,9,15.666666666666666,born in 1922.
+38,"The Lord Rose Of Monewden, a british businessman, was born in 1949.
+Gabriel Langfeldt, a norwegian psychiatrist, was born in 1895.
+Tom Morton, a british journalist author broadcaster, was born in 1955.
+J. Stapleton Roy, a american diplomat , ambassador, was ______",1935,7,27.333333333333332,born in 1935.
+39,"George Dalrymple, a scottish explorer , goldfields commissioner , station manager, was born in 1826.
+Kārlis Irbītis, a latvian airplane designer, was born in 1904.
+Jack Williamson, a american writer , professor of english, was born in 1908.
+Eleanor Shipley Duckett, a english historian , philologist , writer , professor, was ______",1880,17,27.666666666666668,born in 1880.
+40,"Pentti Aalto, a finnish linguist, was born in 1917.
+Fausto Sarli, a italian fashion designer, was born in 1927.
+Steven Zaillian, a american screenwriter , director , editor , producer, was born in 1953.
+Willem Drees , Jr. ., a dutch politician civil servant economist professor, was ______",1922,0,5.0,born in 1922.
+41,"Sulochana Chavan, a indian singer, was born in 1933.
+James Argent, a british television personality , singer , radio dj, was born in 1987.
+Bob Stenehjem, a american roads and streets foreman, was born in 1952.
+Bernard E. Rollin, a american professor biomedical sciences colorado state university of philosophy professor of animal sciences professor of, was ______",1943,15,13.333333333333334,born in 1943.
+42,"Harold Louis Humes , Jr. ., a american novelist journalist editor-in-chief teacher, was born in 1926.
+Anthony Julian, a american attorney judge, was born in 1902.
+John Franklin Carter, a american journalist writer , columnist , novelist , biographer , speech, was born in 1897.
+Alexis Caswell Angell, a american lawyer , law professor , judge, was ______",1857,0,4.666666666666667,born in 1857.
+43,"Martin Strel, a slovene long-distance swimmer, was born in 1954.
+Tom Morton, a british journalist author broadcaster, was born in 1955.
+William Oefelein, a american pilot, was born in 1965.
+Jenni Williams, a zimbabwean human rights activist, was ______",1962,23,16.333333333333332,born in an unknown year.
+44,"Aidan Merivale Crawley, a english journalist , television executive and editor , and politician, was born in 1908.
+Grover Norquist, a united states political, was born in 1956.
+Carl Cook, a american ceo , cook group, was born in 1962.
+Hugh Q. Parmer, a american attorney ; businessman, was ______",1939,6,45.666666666666664,born in 1939.
+45,"Tom Poulton, a british illustrator and artist, was born in 1897.
+Engin Altan Düzyatan, a turkish actor and presenter, was born in 1979.
+Patrick Bergin, a irish actor , singer, was born in 1951.
+Dick Berggren, a american motorsports announcer and magazine editor, was ______",1942,20,38.0,born in 1942.
+46,"Howard Thurston, a american us magician, was born in 1869.
+Tessy Thomas, a indian scientist at drdo, was born in 1963.
+Abram Edward Fitkin, a american investment banker and philanthropist, was born in 1878.
+Conrad Wolfram, a british strategic and international director , wolfram research, was ______",1970,39,170.66666666666666,born in 1970.
+47,"John Orchard, a british actor, was born in 1928.
+Freddy Rodríguez, a united states artist, was born in 1945.
+Altaf Husain, a pakistani journalist, was born in 1900.
+Warren Stevens, a american actor, was ______",1919,5,11.0,born in 1919.
+48,"Patrick Bergin, a irish actor , singer, was born in 1951.
+Dan Morgenstern, a u.s. citizen since 1947 author , critic , librarian, was born in 1929.
+Susan Dey, a american model actress, was born in 1952.
+Reg Gammon, a english painter and illustrator, was ______",1894,18,19.666666666666668,born in 1894.
+49,"Ann Rutherford, a canadian-american actress, was born in 1917.
+Tessy Thomas, a indian scientist at drdo, was born in 1963.
+Abdul Ghafoor Breshna, a afghan painter , music composer , poet , film director, was born in 1907.
+Al Mahmud আল মাহমুদ, a bangladeshi poet , journalist, was ______",1936,15,19.0,born in 1936.
+50,"Gérard Louis-Dreyfus, a french businessman, was born in 1932.
+Chris Widener, a american author , motivational speaker, was born in 1966.
+Bill Berkson, a american poet institute , critic , professor emeritus san francisco art, was born in 1939.
+Winston Churchill, a american novelist , writer, was ______",1871,12,14.666666666666666,born in 1940.
+51,"José Manuel Marroquín, a colombian farmer politician ) planter ( , writer , educator ,, was born in 1827.
+Sir Anwar Pervez, a uk british pakistanpakistani chairman bestway group, was born in 1935.
+Richard Dimbleby, a british broadcaster, was born in 1913.
+Lettice Cooper, a english writer, was ______",1897,3,20.0,born in 1897.
+52,"The Viscount Northcliffe, a british publisher, was born in 1865.
+Damian Barr, a british journalist , writer , salonnière, was born in 1976.
+Ratcliffe Pring, a english barrister , judge, was born in 1825.
+Doris Fleeson, a american journalist, was ______",1901,16,23.333333333333332,born in 1901.
+53,"John Steptoe, a american author, was born in 1950.
+Göran Stangertz, a swedish actor , film director , theater director, was born in 1944.
+Aksel Hagen, a norwegian politician, was born in 1953.
+Cephas Yao Agbemenu, a ghanaian artist -- art professor, was ______",1951,9,6.666666666666667,"Sorry, the birth year of Cephas Yao Agbemenu, a Ghanaian artist and art professor, is not specified."
+54,"Henry Russell, a english composer, was born in 1812.
+Soong May-Ling, a republic of china first lady of the republic of china, was born in 1898.
+Olga Syahputra, a indonesian actor comedian singer television presenter, was born in 1983.
+Masuda Takashi 益田 孝, a japan entrepreneur, was ______",1848,6,5.333333333333333,born in 1948.
+55,"Michael Cudahy, a irish-american industrialist, was born in 1841.
+Gérard Louis-Dreyfus, a french businessman, was born in 1932.
+Patricia A. Pulling, a american author activist, was born in 1948.
+Taylor Lautner, a american actor , voice actor , model , martial artist, was ______",1992,158,18.333333333333332,born in 1992.
+56,"Chandravadan Chimanlal Mehta, a indian playwright writer , critic , self-writer , poet , travel, was born in 1901.
+Babasaheb Purandare, a indian writer, was born in 1922.
+Frank Yerby, a american historical novelist, was born in 1916.
+Matthieu Ricard, a french buddhist monk, was ______",1946,26,32.0,born in 1946.
+57,"Ghulam Abbas, a pakistani writer , magazine editor , translator, was born in 1909.
+Marita Lindquist, a finn novelist, was born in 1918.
+Gérard Feldzer, a french former ) french air and space museum ( head of the '' musée de l'air '', was born in 1944.
+Joel D. Heck, a american professor , author, was ______",1948,5,9.333333333333334,born in 1948.
+58,"Ramesh Sippy, a indian film director , producer, was born in 1947.
+Mariusz Szczygieł, a polish journalist , writer, was born in 1966.
+Christopher Cazenove, a british actor, was born in 1943.
+Modadugu Vijay Gupta, a indian biologist, was ______",1939,5,11.666666666666666,born in 1939.
+59,"John Collier, a british short story writer , screenplay writer, was born in 1901.
+Christopher Cazenove, a british actor, was born in 1943.
+Sir Stephen Spender, a united kingdom poet , novelist , essayist, was born in 1909.
+Douglas Brinkley, a american historian, was ______",1960,37,30.666666666666668,born in 1960.
+60,"Jay Winik, a american writer and historian, was born in 1957.
+William Clay Ford , Sr. ., a american chairman of detroit lions executive of ford motor company, was born in 1925.
+David Griggs, a american test pilot, was born in 1939.
+Damian Barr, a british journalist , writer , salonnière, was ______",1976,8,6.666666666666667,born in 1976.
+61,"Stephen Yokich, a american labor leader, was born in 1935.
+Jeffrey H. Tigay, a american emeritus and literatures a.m. ellis professor of hebrew and semitic languages, was born in 1941.
+James Logan, a irish statesman , scholar, was born in 1674.
+Urmuz Demetru Dem . Demetrescu-Buzău, a romanian writer , humorist , judge , clerk, was ______",1883,468,48.333333333333336,born in 1883.
+62,"Julio Rocha López, a nicaraguan fifa president development officer nicaraguan football federation ) fenifut (, was born in 1950.
+Paul Carey, a american sportscaster, was born in 1928.
+Sulochana Chavan, a indian singer, was born in 1933.
+Frank Yerby, a american historical novelist, was ______",1916,34,10.666666666666666,born in 1916.
+63,"Susan Dey, a american model actress, was born in 1952.
+Jon Kay, a british television presenter, was born in 1969.
+Ken ` Ichi Enomoto, a japanese comedian , film and stage actor, was born in 1904.
+Elco Brinkman, a dutch politician civil servant corporate director, was ______",1948,1,9.666666666666666,born in 1948.
+64,"Carl Svante Hallbeck, a swedish illustrator and painter, was born in 1826.
+John Kenneth Sinclair St Joseph, a british academic, was born in 1912.
+Alexander Carlyle, a scottish minister at inveresk, was born in 1722.
+Charles Gordon, a canadian novelist , humorist , journalist, was ______",1940,16,14.0,born in 1940.
+65,"Jacques Sternberg, a belgian writer, was born in 1923.
+Jiří Macháček, a czech actor , singer, was born in 1966.
+J. D. Williams, a american actor, was born in 1978.
+Walter Extra, a german aircraft designer and manufacturer, was ______",1954,4,5.666666666666667,born in 1954.
+66,"Alexis Caswell Angell, a american lawyer , law professor , judge, was born in 1857.
+Solomonica De Winter, a dutch author, was born in 1997.
+Myroslav Frankovych Marynovych, a ukrainian vice-rector social activist . of the ukrainian catholic university , lecturer ,, was born in 1949.
+Elizabeth A. Fenn, a american historian, was ______",1959,14,9.666666666666666,born in 1959.
+67,"Douglas Preston, a american novelist , journalist, was born in 1956.
+J. D. Williams, a american actor, was born in 1978.
+Hugh Q. Parmer, a american attorney ; businessman, was born in 1939.
+Tim Brabants, a british doctor, was ______",1977,3,23.0,born in 1977.
+68,"Edward Burtynsky, a canadian photographer , artist, was born in 1955.
+Fausto Sarli, a italian fashion designer, was born in 1927.
+Andy Weir, a american novelist , programmer, was born in 1972.
+Friedrich Hecker, a german lawyer , politician, was ______",1811,17,25.0,born in 1811.
+69,"John Elwes, a british politician , moneylender, was born in 1714.
+Letitia Elizabeth Landon, a english writer, was born in 1802.
+Bennett S. Lebow, a united states businessman, was born in 1937.
+Margery Eagan, a american radio host , newspaper columnist, was ______",1954,16,28.0,born in 1954.
+70,"Jessica Cirio, a argentina -- italy vedette , dancer , model , actress, was born in 1985.
+Henryk Marcin Broder, a german journalist , author, was born in 1946.
+Jan Bucquoy, a belgium anarchist , author , filmmaker, was born in 1945.
+David Halberstam, a american journalist , historian , writer, was ______",1934,54,6.0,born in 1934.
+71,"Al Capp, a american cartoonist , satirist , radio and tv commentator, was born in 1909.
+Conrad Wolfram, a british strategic and international director , wolfram research, was born in 1970.
+Hugh Herr, a american academic engineer biophysicist, was born in 1964.
+Mehmet Akif Hamzaçebi, a turkey turkish politician, was ______",1953,2,49.666666666666664,born in 1953.
+72,"Herman Brusselmans, a belgian novelist , poet , playwright , columnist, was born in 1957.
+Paul Tirard, a french chairman of the inter-allied rhineland high commission ., was born in 1879.
+Kseniya Simonova, a ukrainian singer , actor , songwriter composer , pianist, was born in 1985.
+Ignasi Ribó, a spanish writer, was ______",1971,10,35.333333333333336,born in 1971.
+73,"Ellison Greenslade, a bahamian rbpf commissioner, was born in 1961.
+Irving Hexham, a british and canadian anthropologist , educator, was born in 1943.
+William Rennie, a canadian farmer , seed merchant , educator , writer, was born in 1835.
+Jeffrey Gural, a united states real estate developer, was ______",1942,31,7.666666666666667,born in 1942.
+74,"Dorothy Spruill Redford, a american author , historian, was born in 1943.
+Zoe Levin, a american actress, was born in 1993.
+Wallace Souza, a brazilian presenter , politician, was born in 1958.
+Josef Hora, a czech poet, was ______",1891,31,17.333333333333332,born in 1891.
+75,"Ernst Heinrich Von Schimmelmann, a german-danish businessman , politician , estate owner, was born in 1747.
+Grover Norquist, a united states political, was born in 1956.
+Bill Berkson, a american poet institute , critic , professor emeritus san francisco art, was born in 1939.
+Ercan Yazgan, a turkish actor , comedian, was ______",1946,4,38.0,born in 1946.
+76,"Shekhar Gurera, a indian cartoonist , caricaturist , illustrator , designer, was born in 1965.
+John Elwes, a british politician , moneylender, was born in 1714.
+Oh Yoon, a south korea painter , printmaker, was born in 1946.
+Olga Syahputra, a indonesian actor comedian singer television presenter, was ______",1983,9,21.333333333333332,born in 1983.
+77,"William Mcfee, a english writer, was born in 1881.
+Louane Emera, a french singer actress, was born in 1996.
+Mike Embley, a british journalist, was born in 1955.
+Anne Rice, a american novelist, was ______",1941,222,7.0,born in 1941.
+78,"Soong May-Ling, a republic of china first lady of the republic of china, was born in 1898.
+Dodie Smith, a british novelist , playwright, was born in 1896.
+Simon Lokodo, a ugandan former catholic priest & politician, was born in 1957.
+George Howell, a british trade unionist, was ______",1833,4,15.0,born in 1833.
+79,"The Viscount Northcliffe, a british publisher, was born in 1865.
+Anne Rice, a american novelist, was born in 1941.
+Devaughn Nixon, a american actor, was born in 1983.
+Richard Cayne Perry, a united states hedge fund manager, was ______",1955,26,87.0,born in 1955.
+80,"Michael Cudahy, a irish-american industrialist, was born in 1841.
+Jeffrey Arthur Koterba, a american editorial cartoonist & musician, was born in 1961.
+Andreas Fritz Hillgruber, a german historian, was born in 1925.
+Titi Kamal, a indonesian model , actress , singer, was ______",1981,19,170.33333333333334,born in 1981.
+81,"Christine Jorgensen, a american actress , night club singer, was born in 1926.
+Matilda Mary Hays, a british author , journalist , actor , translator, was born in 1820.
+Karl Kirchwey, a american poet , translator , teacher , literary curator, was born in 1956.
+Pirmin Meier, a swiss writer , teacher, was ______",1947,5,53.0,born in 1947.
+82,"Vasili Mitrokhin, a russian , british military, was born in 1922.
+Sue Ramirez, a filipino actress, was born in 1996.
+'' '' ` Medicine Story '' ' ` Manitonquat '' ' , Also Known As, a american writer , speaker , teacher , councilor ., was born in 1929.
+Lizette Carrión, a american actress, was ______",1972,0,15.0,born in 1972.
+83,"Thomas Jouannet, a french actor, was born in 1970.
+Aleksey Lyapunov, a russia mathematician, was born in 1911.
+Peggy Noonan, a american author , columnist , speechwriter, was born in 1950.
+Luis Leante, a spanish latin professor , novelist, was ______",1963,3,12.666666666666666,born in 1963.
+84,"Dodie Smith, a british novelist , playwright, was born in 1896.
+Howard Thurston, a american us magician, was born in 1869.
+Pawel Szajda, a american actor, was born in 1982.
+Otto Jespersen, a danish academic, was ______",1860,11,22.333333333333332,born in 1860.
+85,"Rajeev Khandelwal, a indian actor , tv presenter , model, was born in 1975.
+'' '' ` Medicine Story '' ' ` Manitonquat '' ' , Also Known As, a american writer , speaker , teacher , councilor ., was born in 1929.
+Michael Shub, a usa mathematician , professor, was born in 1943.
+Bob Stenehjem, a american roads and streets foreman, was ______",1952,5,58.0,born in 1952.
+86,"Gregory R. Wiseman, a united states test pilot , usn, was born in 1975.
+James Paul Warburg, a united states banker and writer, was born in 1896.
+K. T. Muhammed, a indian playwright, was born in 1927.
+Jason Wu, a taiwan taiwan canada canada -lrb- multiple citizenship -rrb- fashion designer, was ______",1982,24,5.333333333333333,born in 1982.
+87,"Meryem Uzerli, a german , turkish actress , model, was born in 1983.
+Conrad Wolfram, a british strategic and international director , wolfram research, was born in 1970.
+Leo Jogiches, a russian politician, was born in 1867.
+Jean-Philippe Toussaint, a belgian novelist screenwriter director, was ______",1957,33,56.666666666666664,born in 1957.
+88,"Rutilio Escandón, a mexican lawyer, was born in 1958.
+Patricia A. Pulling, a american author activist, was born in 1948.
+The Viscount Northcliffe, a british publisher, was born in 1865.
+Sir Nadhmi Auchi, a british / iraqi businessman and philanthropist, was ______",1937,15,23.666666666666668,born in 1937.
+89,"Nicholas Longworth, a american lawyer , banker , real estate speculator , winemaker, was born in 1783.
+David Gordon, a american libertarian philosopher and intellectual historian, was born in 1948.
+Alan B. Shepard , Jr. ., a american naval aviator , test pilot, was born in 1923.
+Carl Cook, a american ceo , cook group, was ______",1962,11,79.66666666666667,born in 1962.
+90,"Richard Wynne, a australian social worker, was born in 1955.
+Ron Ziel, a american photographer/historian, was born in 1939.
+William Makepeace Thackeray, a english novelist , poet, was born in 1811.
+Michael Kumpfmüller, a german novelist, was ______",1961,0,21.0,born in 1961.
+91,"Christian Führer, a german pastor, was born in 1943.
+Brankica Stanković, a serbian journalist, was born in 1975.
+Manuel Hedilla, a spanish mechanic, was born in 1902.
+Nikos Papatakis, a greek film director , film producer , screenwriter , actor, was ______",1918,4,19.333333333333332,born in 1918.
+92,"Petr Kostka, a czech actor, was born in 1938.
+Lance Gooden, a american businessman, was born in 1982.
+Rene A. V. Saguisag, a filipino lawyer , senator, was born in 1939.
+Pierre De Chaignon La Rose, a american academic ; heraldic designer and artist, was ______",1871,45,32.333333333333336,born in 1871.
+93,"Brankica Stanković, a serbian journalist, was born in 1975.
+Benigno S. Aquino , Jr. ., a filipino politician, was born in 1932.
+Ján Kollár, a slovak writer , poet , pastor, was born in 1793.
+Meryem Uzerli, a german , turkish actress , model, was ______",1983,53,11.333333333333334,born in 1983.
+94,"Angie Chen Button, a american businesswoman, was born in 1954.
+Nalo Hopkinson, a canadian writer , editor, was born in 1960.
+Ahmet Hamdi Tanpınar, a turkey writer , poet , scholar, was born in 1901.
+Jack Williamson, a american writer , professor of english, was ______",1908,40,17.666666666666668,born in 1908.
+95,"Frank Yerby, a american historical novelist, was born in 1916.
+Dr. Jayanti Naik, a indian writer , folklorist, was born in 1962.
+Edith Maud Hull, a british novelist, was born in 1880.
+Liam Hackett, a british founder director hackett & tiger , a digital marketing agency . and ceo of ditch the label and managing, was ______",1991,0,20.333333333333332,born in 1990.
+96,"Ron Luciano, a american umpire , author, was born in 1937.
+Clifford D. Simak, a american journalist , popular writer, was born in 1904.
+Joe Bob Briggs, a american film critic , writer , actor, was born in 1953.
+Lieven Scheire, a belgium comedian, was ______",1981,0,44.333333333333336,born in 1981.
+97,"Nils Aall Barricelli, a norwegian-italian mathematician, was born in 1912.
+Pentti Aalto, a finnish linguist, was born in 1917.
+Bill Geivett, a american director of major league operations, was born in 1963.
+Drew Remenda, a canadian sportscaster, was ______",1962,11,6.666666666666667,born in 1961.
+98,"Howard Thurston, a american us magician, was born in 1869.
+David Edgar, a british playwright, was born in 1948.
+Ottmar Mergenthaler, a naturalized german-american inventor, was born in 1854.
+Engin Altan Düzyatan, a turkish actor and presenter, was ______",1979,78,32.666666666666664,born in 1979.
+99,"Anatoli Alekseievich Ivanishin Анатолий Алексеевич Иванишин, a russian pilot, was born in 1969.
+Phill Lewis, a american actor , comedian , television director, was born in 1968.
+Chiho Saito, a japanese manga artist, was born in 1967.
+Christine Jorgensen, a american actress , night club singer, was ______",1926,58,5.333333333333333,born in 1926.

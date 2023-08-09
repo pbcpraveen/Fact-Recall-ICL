@@ -21,6 +21,7 @@ import pandas as pd
 import re
 from selenium import webdriver
 from threading import Thread
+import random
 
 load_dotenv('api_key.env')
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -46,12 +47,12 @@ def clean(s):
 # TODO: add timeout
 def chatgpt_query(query, temperature=0):
     response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4-0314",
             messages = query,
             temperature = temperature,
-#             request_timeout=120,
+            request_timeout=90,
+            max_tokens = 150
             )
-    print(response)
 
     return response.choices[0].message["content"].replace('\n', ' ')
 
@@ -324,8 +325,32 @@ def generate_example1(row):
     example = "{}, a {} {}, was born in {}.".format(row['name'], row['nationality'], row["occupation"], row['wikipedia_birth_year'])
     return example.replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')')
 
-def generate_examples(sample):
+def generate_example_statement_indirect(row):
+    example = "{}, a {} {} : {}.".format(row['name'], row['nationality'], row["occupation"], row['wikipedia_birth_year'])
+    return example.replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')')
+
+def get_noisy_year(row):
+    return row['wikipedia_birth_year'] + random.randint(0, 73)
+
+def generate_example1_noisy(row):
+    example = "{}, a {} {}, was born in {}.".format(row['name'], row['nationality'], row["occupation"], row['wikipedia_birth_year_noisy'])
+    return example.replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')')
+
+def generate_example_statement_indirect_noisy(row):
+    example = "{}, a {} {} : {}.".format(row['name'], row['nationality'], row["occupation"], row['wikipedia_birth_year_noisy'])
+    return example.replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')')
+
+
+
+def generate_icl_query(sample):
     example = '\n'.join(sample.head(3)['example'].to_list())
+    example += '\n'
+    row = sample.iloc[3]
+    example += '{}, a {} {}, was ______'.format(row['name'].replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')'), row['nationality'], row["occupation"])
+    return example
+
+def generate_icl_query_indirect(sample):
+    example = '\n'.join(sample.head(3)['example_indirect'].to_list())
     example += '\n'
     row = sample.iloc[3]
     example += '{}, a {} {}, was ______'.format(row['name'].replace('-Rrb-', '(').replace('-Lrb-', ')').replace('-rrb-', '(').replace('-lrb-', ')'), row['nationality'], row["occupation"])
